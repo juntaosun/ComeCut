@@ -3,9 +3,9 @@
 </div>
 
 <p align="center">
-<img style="align:center;" src="./logo.png" alt="Notesnook Logo" width="80" />
+<img style="align:center;" src="./logo.png" alt="Notesnook Logo" width="150" />
 </p>
-<h1 align="center" style="margin-top: -15px;">ComeCut</h1>
+<h2 align="center" style="margin-top: -15px;">ComeCut「来剪」</h1>
 
 <h3 align="center" style="margin-bottom: -15px;">
 <b>⭐免费易用的（网页版、桌面版）视频编辑器</b></a>
@@ -16,7 +16,9 @@
 <a href="README.md"><b>English</b></a> | <a href="README_ZH.md"><b>中文</b></a>
 </h3>
 
-![image](./example/example01.png) 
+<div align=center>
+<img src='./example/image01.png' />
+</div>
 
 ## 🎁 为什么选择 ComeCut ?   
 我们的愿景是：充分整合开源社区的力量，打造一个真正免费、开放、可扩展的 AI 视频编辑生态系统，惠及所有人。  
@@ -27,7 +29,9 @@
 ✅ 智能融合：使用先进的AI。  
 ✅ 功能强大的视频编辑器。  
 
-![image](./example/example02.png)   
+<div align=center>
+<img src='./example/image02.png' />
+</div>
 
 ## ⚡ 在线演示  
 | Windows | MacOS | Linux |  
@@ -41,8 +45,6 @@
 - 如果您对此项目有任何疑问、或有意贡献力量，请在 Issues 随时联系我们！
 
 ## 👏 最新动态
-
-> 开源计划：我们目前正以极快的速度发展，不断进行快速开发和重大更改。待方案稳定后，我们将会同步更新源码。
 
 - **[2025-09-07]** 🚀 **ComeCut 项目开始!** 
 
