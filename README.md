@@ -29,7 +29,7 @@ Our vision is to fully integrate the power of the open source community to creat
 ✅ A powerful video editor.  
 
 ## ✨ AI feature support  
-| Subtitle translation | state |  
+| Subtitle translation (SRT/VTT/LRC) | state |  
 |------------------------|------------|  
 | Gemini | ✅ OK |  
 | DeepSeek | ✅ OK |  
