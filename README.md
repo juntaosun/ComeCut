@@ -39,6 +39,13 @@ Our vision is to fully integrate the power of the open source community to creat
 | ✅ beta | ✅ beta | ✅ beta |   
 > 👉🏻 <a href="https://juntaosun.github.io/ComeCut/" target="_blank" rel="noopener noreferrer">[ Canary build online demo ]</a>   
 
+
+## ✨ AI feature support  
+| Subtitle translation |  
+| Gemini | ✅ OK |  
+| DeepSeek | ✅ OK |  
+| Ollama | ✅ OK |  
+
 ## 💬 Discuss with us  
 -  This is an early stage project under rapid development. 
 -  Right now, it’s still young! We have lots of great, new and fun creative ideas and are working hard to build it out!      

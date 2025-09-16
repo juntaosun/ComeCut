@@ -39,6 +39,12 @@
 | ✅ beta | ✅ beta | ✅ beta |  
 > 👉🏻 <a href="https://juntaosun.github.io/ComeCut/" target="_blank" rel="noopener noreferrer">[ Canary build online demo ]</a>   
 
+## ✨ AI 功能支持  
+| 字幕翻译 |  
+| Gemini | ✅ 完成 |  
+| DeepSeek | ✅ 完成 |  
+| Ollama | ✅ 完成 |  
+
 ## 💬 与我们讨论  
 - 这是一个正在快速发展的早期项目。
 - 现在，它还很年轻！我们有许多伟大，新颖好玩的创意想法，正在努力构建它！    
