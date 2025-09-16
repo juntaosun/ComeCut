@@ -29,6 +29,13 @@
 ✅ 智能融合：使用先进的AI。  
 ✅ 功能强大的视频编辑器。  
 
+## ✨ AI 功能支持  
+| 字幕翻译 | 支持状态 |  
+|------------------------|------------|  
+| Gemini | ✅ OK |  
+| DeepSeek | ✅ OK |  
+| Ollama | ✅ OK |  
+
 <div align=center>
 <img src='./example/image02.png' />
 </div>
@@ -39,12 +46,6 @@
 | ✅ beta | ✅ beta | ✅ beta |  
 > 👉🏻 <a href="https://juntaosun.github.io/ComeCut/" target="_blank" rel="noopener noreferrer">[ Canary build online demo ]</a>   
 
-## ✨ AI 功能支持  
-| 字幕翻译 | 支持状态 |  
-|------------------------|------------|  
-| Gemini | ✅ OK |  
-| DeepSeek | ✅ OK |  
-| Ollama | ✅ OK |  
 
 ## 💬 与我们讨论  
 - 这是一个正在快速发展的早期项目。

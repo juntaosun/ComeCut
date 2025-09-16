@@ -28,6 +28,13 @@ Our vision is to fully integrate the power of the open source community to creat
 ✅ Intelligent fusion: using advanced AI.  
 ✅ A powerful video editor.  
 
+## ✨ AI feature support  
+| Subtitle translation | state |  
+|------------------------|------------|  
+| Gemini | ✅ OK |  
+| DeepSeek | ✅ OK |  
+| Ollama | ✅ OK |  
+
 <div align=center>
 <img src='./example/image02.png' />
 </div>
@@ -39,13 +46,6 @@ Our vision is to fully integrate the power of the open source community to creat
 | ✅ beta | ✅ beta | ✅ beta |   
 > 👉🏻 <a href="https://juntaosun.github.io/ComeCut/" target="_blank" rel="noopener noreferrer">[ Canary build online demo ]</a>   
 
-
-## ✨ AI feature support  
-| Subtitle translation | state |  
-|------------------------|------------|  
-| Gemini | ✅ OK |  
-| DeepSeek | ✅ OK |  
-| Ollama | ✅ OK |  
 
 ## 💬 Discuss with us  
 -  This is an early stage project under rapid development. 
