@@ -40,10 +40,11 @@
 > 👉🏻 <a href="https://juntaosun.github.io/ComeCut/" target="_blank" rel="noopener noreferrer">[ Canary build online demo ]</a>   
 
 ## ✨ AI 功能支持  
-| 字幕翻译 |  
-| Gemini | ✅ 完成 |  
-| DeepSeek | ✅ 完成 |  
-| Ollama | ✅ 完成 |  
+| 字幕翻译 | 支持状态 |  
+|------------------------|------------|  
+| Gemini | ✅ OK |  
+| DeepSeek | ✅ OK |  
+| Ollama | ✅ OK |  
 
 ## 💬 与我们讨论  
 - 这是一个正在快速发展的早期项目。

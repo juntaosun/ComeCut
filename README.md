@@ -41,7 +41,8 @@ Our vision is to fully integrate the power of the open source community to creat
 
 
 ## ✨ AI feature support  
-| Subtitle translation |  
+| Subtitle translation | state |  
+|------------------------|------------|  
 | Gemini | ✅ OK |  
 | DeepSeek | ✅ OK |  
 | Ollama | ✅ OK |  
