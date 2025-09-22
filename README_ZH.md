@@ -30,11 +30,20 @@
 ✅ 功能强大的视频编辑器。  
 
 ## ✨ AI 功能支持  
-| 字幕翻译 (SRT/VTT/LRC) | 支持状态 |  
+| 字幕翻译 (SRT/VTT/LRC) | 状态 |  
 |------------------------|------------|  
 | Gemini | ✅ OK |  
 | DeepSeek | ✅ OK |  
 | Ollama | ✅ OK |  
+
+| ComfyUI (AI图像/AI视频) | 状态 |  
+|------------------------|------------|  
+| Qwen Image | ⌛即将推出 |  
+| Qwen Edit | ⌛即将推出 |  
+| Wan2.1-T2V | ⌛即将推出 |  
+| Wan2.1-I2V | ⌛即将推出 |  
+| Wan2.2-T2V | ⌛即将推出 |  
+| Wan2.2-I2V | ⌛即将推出 |  
 
 <div align=center>
 <img src='./example/image02.png' />

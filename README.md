@@ -35,6 +35,15 @@ Our vision is to fully integrate the power of the open source community to creat
 | DeepSeek | ✅ OK |  
 | Ollama | ✅ OK |  
 
+| ComfyUI (AI Image/AI Video) | state |  
+|------------------------|------------|  
+| Qwen Image | ⌛Coming soon |  
+| Qwen Edit | ⌛Coming soon |  
+| Wan2.1-T2V | ⌛Coming soon |  
+| Wan2.1-I2V | ⌛Coming soon |  
+| Wan2.2-T2V | ⌛Coming soon |  
+| Wan2.2-I2V | ⌛Coming soon |  
+
 <div align=center>
 <img src='./example/image02.png' />
 </div>
