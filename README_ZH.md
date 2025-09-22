@@ -30,13 +30,13 @@
 ✅ 功能强大的视频编辑器。  
 
 ## ✨ AI 功能支持  
-| 字幕翻译 (SRT/VTT/LRC) | 状态 |  
+| 🔵 字幕翻译 (SRT/VTT/LRC) | 状态 |  
 |------------------------|------------|  
 | Gemini | ✅ OK |  
 | DeepSeek | ✅ OK |  
 | Ollama | ✅ OK |  
 
-| ComfyUI (AI图像/AI视频) | 状态 |  
+| 🔵 ComfyUI (AI图像/AI视频) | 状态 |  
 |------------------------|------------|  
 | Qwen Image | ⌛即将推出 |  
 | Qwen Edit | ⌛即将推出 |  

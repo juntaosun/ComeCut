@@ -29,13 +29,13 @@ Our vision is to fully integrate the power of the open source community to creat
 ✅ A powerful video editor.  
 
 ## ✨ AI feature support  
-| Subtitle translation (SRT/VTT/LRC) | state |  
+| 🔵 Subtitle translation (SRT/VTT/LRC) | state |  
 |------------------------|------------|  
 | Gemini | ✅ OK |  
 | DeepSeek | ✅ OK |  
 | Ollama | ✅ OK |  
 
-| ComfyUI (AI Image/AI Video) | state |  
+| 🔵 ComfyUI (AI Image/AI Video) | state |  
 |------------------------|------------|  
 | Qwen Image | ⌛Coming soon |  
 | Qwen Edit | ⌛Coming soon |  
