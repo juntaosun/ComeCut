@@ -35,6 +35,12 @@ Our vision is to fully integrate the power of the open source community to creat
 | DeepSeek | ✅ OK |  
 | Ollama | ✅ OK |  
 
+<div align=center>
+<img src='./example/translate_en.png' />
+</div>  
+
+> Dual-language subtitles one-click translation  
+
 | 🔵 ComfyUI (AI Image/AI Video) | state |  
 |------------------------|------------|  
 | Qwen Image | ⌛Coming soon |  

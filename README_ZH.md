@@ -36,6 +36,12 @@
 | DeepSeek | ✅ OK |  
 | Ollama | ✅ OK |  
 
+<div align=center>
+<img src='./example/translate_cn.png' />
+</div>
+
+> 双语字幕一键翻译  
+
 | 🔵 ComfyUI (AI图像/AI视频) | 状态 |  
 |------------------------|------------|  
 | Qwen Image | ⌛即将推出 |  
