@@ -29,6 +29,9 @@ Our vision is to fully integrate the power of the open source community to creat
 ✅ A powerful video editor.  
 
 ## ✨ AI feature support  
+
+> Dual-language subtitles one-click translation  
+
 | 🔵 Subtitle translation (SRT/VTT/LRC) | state |  
 |------------------------|------------|  
 | Gemini | ✅ OK |  
@@ -39,7 +42,6 @@ Our vision is to fully integrate the power of the open source community to creat
 <img src='./example/translate_en.png' />
 </div>  
 
-> Dual-language subtitles one-click translation  
 
 | 🔵 ComfyUI (AI Image/AI Video) | state |  
 |------------------------|------------|  
