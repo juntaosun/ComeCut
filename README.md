@@ -43,14 +43,17 @@ Our vision is to fully integrate the power of the open source community to creat
 </div>  
 
 
-| 🔵 ComfyUI (AI Image/AI Video) | state |  
-|------------------------|------------|  
-| Qwen Image | ⌛Coming soon |  
-| Qwen Edit | ⌛Coming soon |  
-| Wan2.1-T2V | ⌛Coming soon |  
-| Wan2.1-I2V | ⌛Coming soon |  
-| Wan2.2-T2V | ⌛Coming soon |  
-| Wan2.2-I2V | ⌛Coming soon |  
+> We plan to fully support ComfyUI, making it easy for everyone to create AI anime or short dramas!  
+
+| 🔵 ComfyUI (AI Image/AI Video) | AI Type | Status | Add to Track |  
+|------------------------|------------|------------|------------|  
+| Qwen Image | AI Image Generation | ✅Tested | ⌛Coming Soon |  
+| Qwen Edit | AI Image Editor | ✅Tested | ⌛Coming Soon |  
+| Wan2.1-T2V | AI Text to Video | ✅Tested | ⌛Coming Soon |    
+| Wan2.1-I2V | AI Image to Video | ✅Tested | ⌛Coming Soon |    
+| Wan2.2-T2V | AI Text to Video | ✅Tested | ⌛Coming Soon |    
+| Wan2.2-I2V | AI Image to Video | ✅Tested | ⌛Coming Soon |  
+SeedVR2 | AI Image Enhancement | ✅ Tested | ⌛Coming Soon |   
 
 <div align=center>
 <img src='./example/image02.png' />
