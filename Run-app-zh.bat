@@ -79,7 +79,9 @@ for /l %%i in (1,1,!count!) do (
 :start_server
 :: 如果要打开其他文件，可以修改这里
 set "default_page=index.html"
-set "server_url=http://127.0.0.1:8000/%default_page%"
+set "HTTP_PORT=8000"
+set "HTTP_IP=127.0.0.1"
+set "server_url=http://%HTTP_IP%:%HTTP_PORT%/%default_page%"
 
 
 echo.
@@ -97,9 +99,9 @@ start "" "%server_url%"
 
 :: 在当前窗口启动服务器
 if !use_conda! equ 1 (
-    python -m http.server 8000 --bind 127.0.0.1
+    python -m http.server %HTTP_PORT% --bind %HTTP_IP%
 ) else (
-    "!selected_python!" -m http.server 8000 --bind 127.0.0.1
+    "!selected_python!" -m http.server %HTTP_PORT% --bind %HTTP_IP%
 )
 
 pause

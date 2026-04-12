@@ -79,7 +79,9 @@ for /l %%i in (1,1,!count!) do (
 :start_server
 :: Modify here if you want to open a different file
 set "default_page=index.html"
-set "server_url=http://127.0.0.1:8000/%default_page%"
+set "HTTP_PORT=8000"
+set "HTTP_IP=127.0.0.1"
+set "server_url=http://%HTTP_IP%:%HTTP_PORT%/%default_page%"
 
 echo.
 echo ========================================
@@ -95,9 +97,9 @@ start "" "%server_url%"
 
 :: Start server in current window
 if !use_conda! equ 1 (
-    python -m http.server 8000 --bind 127.0.0.1
+    python -m http.server %HTTP_PORT% --bind %HTTP_IP%
 ) else (
-    "!selected_python!" -m http.server 8000 --bind 127.0.0.1
+    "!selected_python!" -m http.server %HTTP_PORT% --bind %HTTP_IP%
 )
 
 pause
