@@ -29,6 +29,12 @@
 ✅ 智能融合：使用先进的AI。  
 ✅ 功能强大的视频编辑器。  
 
+## ✨ 支持全球 100+ API 大模型 
+
+<div align=center>
+<img src='./example/api.png' />
+</div>
+
 ## ✨ AI 功能支持  
 
 > 双语字幕一键翻译  

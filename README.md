@@ -28,6 +28,12 @@ Our vision is to fully integrate the power of the open source community to creat
 ✅ Intelligent fusion: using advanced AI.  
 ✅ A powerful video editor.  
 
+## ✨ Supports 100+ global APIs and large models  
+
+<div align=center>
+<img src='./example/api.png' />
+</div>
+
 ## ✨ AI feature support  
 
 > Dual-language subtitles one-click translation  
