@@ -34,37 +34,29 @@ Our vision is to fully integrate the power of the open source community to creat
 <img src='./example/api.png' />
 </div>
 
-## ✨ AI feature support  
+## ✨ AI Subtitle translation (SRT/VTT/LRC)   
 
 > Dual-language subtitles one-click translation  
-
-| 🔵 Subtitle translation (SRT/VTT/LRC) | state |  
-|------------------------|------------|  
-| Gemini | ✅ OK |  
-| DeepSeek | ✅ OK |  
-| Ollama | ✅ OK |  
-| LM Studio | ✅ OK |  
 
 <div align=center>
 <img src='./example/translate_en.png' />
 </div>  
 
 
-<!-- > We plan to fully support ComfyUI, making it easy for everyone to create AI anime or short dramas!   -->
-
-<!-- | 🔵 ComfyUI (AI Image/AI Video) | AI Type | Status | Add to Track |  
-|------------------------|------------|------------|------------|  
-| Qwen Image | AI Image Generation | ✅Tested | ⌛Coming Soon |  
-| Qwen Edit | AI Image Editor | ✅Tested | ⌛Coming Soon |  
-| Wan2.1-T2V | AI Text to Video | ✅Tested | ⌛Coming Soon |    
-| Wan2.1-I2V | AI Image to Video | ✅Tested | ⌛Coming Soon |    
-| Wan2.2-T2V | AI Text to Video | ✅Tested | ⌛Coming Soon |    
-| Wan2.2-I2V | AI Image to Video | ✅Tested | ⌛Coming Soon |  
-SeedVR2 | AI Image Enhancement | ✅ Tested | ⌛Coming Soon |    -->
-
 <div align=center>
 <img src='./example/image02.png' />
 </div>
+
+
+## ✨ AI Voice Recognition Subtitles (In Progress)  
+> Voice track recognition generates subtitles  
+
+## ✨ AI Video Translation and Dubbing (In Progress)  
+> English TV series/Korean dramas/Japanese dramas --> One-click translation into Mandarin dubbing  
+
+## ✨ AI Short Drama Creation (In Progress)  
+> Future integration will include: seedance-2.0, veo3.1, sora2, etc.  
+> Easily create your AI short dramas/AI comics/AI creative works  
 
 
 ## ⚡ Online Demo    

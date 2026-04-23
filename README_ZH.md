@@ -35,36 +35,29 @@
 <img src='./example/api.png' />
 </div>
 
-## ✨ AI 功能支持  
+## ✨ AI 字幕翻译 (SRT/VTT/LRC)  
 
 > 双语字幕一键翻译  
-
-| 🔵 字幕翻译 (SRT/VTT/LRC) | 状态 |  
-|------------------------|------------|  
-| Gemini | ✅ OK |  
-| DeepSeek | ✅ OK |  
-| Ollama | ✅ OK |  
-| LM Studio | ✅ OK |  
 
 <div align=center>
 <img src='./example/translate_cn.png' />
 </div>
 
-<!-- > 我们计划全面支持 ComfyUI ，让每个人都能轻松创建 AI 动漫或短剧！   -->
-
-<!-- | 🔵 ComfyUI (AI图像/AI视频) | AI类型   | 状态  | 添加到轨道 |  
-|------------------------|------------|------------|------------|  
-| Qwen Image | AI文生图 | ✅已测试 | ⌛即将推出 |  
-| Qwen Edit | AI图像编辑 | ✅已测试 | ⌛即将推出 |  
-| Wan2.1-T2V | AI文生视频 | ✅已测试 |⌛即将推出 |  
-| Wan2.1-I2V | AI图生视频 | ✅已测试 | ⌛即将推出 |  
-| Wan2.2-T2V | AI文生视频 | ✅已测试 | ⌛即将推出 |  
-| Wan2.2-I2V | AI图生视频 | ✅已测试 | ⌛即将推出 |  
-| SeedVR2 | AI图像增强 | ✅已测试 | ⌛即将推出 |   -->
 
 <div align=center>
 <img src='./example/image02.png' />
 </div>
+
+## ✨ AI 语音识别字幕 (进行中)   
+> 语音轨道识别生成字幕  
+
+## ✨ AI 视频译制配音 (进行中)   
+> 英文美剧/韩剧/日剧 --> 一键译制成国语配音 
+
+## ✨ AI 短剧自由创作 (进行中)   
+> 未来将接入: seedance-2.0, veo3.1, sora2 等  
+> 轻松创作您的 AI 短剧 / AI漫剧 / AI创意   
+
 
 ## ⚡ 在线演示  
 | Windows | MacOS | Linux |  
