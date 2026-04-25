@@ -1,102 +1,108 @@
-<div align="right">
-👉🏻 <a href="https://juntaosun.github.io/ComeCut/" target="_blank" rel="noopener noreferrer">ONLINE DEMO</a> 
+<div align="center">
+  <img src="./logo.png" alt="ComeCut Logo" width="120" />
+  <h1>ComeCut 「来剪」</h1>
+  <p><b>A Free, Open-Source, and AI-Powered Video Editing Suite for Web & Desktop</b></p>
+
+  <p>
+    <img src="https://img.shields.io/badge/License-AGPL%203.0-blue.svg" alt="License" />
+    <img src="https://img.shields.io/badge/Version-Beta-orange.svg" alt="Version" />
+    <img src="https://img.shields.io/badge/Platform-Web%20|%20Win%20|%20Mac%20|%20Linux-brightgreen.svg" alt="Platform" />
+    <a href="https://juntaosun.github.io/ComeCut/"><img src="https://img.shields.io/badge/Demo-Online-red.svg" alt="Online Demo" /></a>
+  </p>
+
+  <h3>
+    <a href="README.md">English</a> | <a href="README_ZH.md">简体中文</a>
+  </h3>
 </div>
 
-<p align="center">
-<img style="align:center;" src="./logo.png" alt="Notesnook Logo" width="150" />
-</p>
-<h2 align="center" style="margin-top: -15px;">ComeCut「来剪」</h1>
+---
 
-<h3 align="center" style="margin-bottom: -15px;">
-<b>⭐Free & Easy-to-use Video Editor for Web, Desktop</b></a>
-</h3>
-
-<h3 align="center">
-<a href="README.md"><b>English</b></a> | <a href="README_ZH.md"><b>中文</b></a>
-</h3>
-
-<div align=center>
-<img src='./example/image01.png' />
+<div align="center">
+  <img src='./example/image01.png' width="90%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
-## 🎁 Why ComeCut ?  
-Our vision is to fully integrate the power of the open source community to create a truly free, open, and scalable AI video editing ecosystem that benefits everyone.  
+## 🎁 Why ComeCut?
 
-✅ Completely free: unlimited use.  
-✅ No registration required: no strings attached.  
-✅ Privacy and security: fully localized.  
-✅ Intelligent fusion: using advanced AI.  
-✅ A powerful video editor.  
+Our vision is to empower everyone with a professional-grade, AI-enhanced video editing experience. By leveraging the open-source community, we provide a truly free and scalable ecosystem.
 
-## ✨ Supports 100+ global APIs and large models  
+*   ✨ **Completely Free**: No hidden costs, unlimited usage.
+*   🚀 **No Registration**: Start creating immediately—no account required.
+*   🔒 **Privacy First**: Fully localized processing ensures your data stays yours.
+*   🤖 **AI-Driven**: Seamlessly integrates state-of-the-art AI models.
+*   🎨 **Powerful Tools**: A full-featured editor right in your browser or desktop.
 
-<div align=center>
-<img src='./example/api.png' />
+---
+
+## ✨ AI-Powered Ecosystem
+
+### 🌐 100+ Global APIs & Large Models
+ComeCut integrates with the world's leading AI providers to bring you the latest in generative video and audio technology.
+
+<div align="center">
+  <img src='./example/api.png' width="80%" />
 </div>
 
-## ✨ AI Subtitle translation (SRT/VTT/LRC)   
+### 📝 Smart Subtitle Translation (SRT/VTT/LRC)
+Effortlessly translate subtitles into multiple languages with one click, supporting dual-language display.
 
-> Dual-language subtitles one-click translation  
-
-<div align=center>
-<img src='./example/translate_en.png' />
-</div>  
-
-
-<div align=center>
-<img src='./example/image02.png' />
+<div align="center">
+  <img src='./example/translate_en.png' width="80%" style="border-radius: 8px;" />
 </div>
 
+<div align="center">
+  <img src='./example/image02.png' width="90%" style="border-radius: 8px; margin-top: 20px;" />
+</div>
 
-## ✨ AI Voice Recognition Subtitles (In Progress)  
-> Voice track recognition generates subtitles  
+---
 
-## ✨ AI Video Translation and Dubbing (In Progress)  
-> English TV series/Korean dramas/Japanese dramas --> One-click translation into Mandarin dubbing  
+## 🗺️ Roadmap (In Progress)
 
-## ✨ AI Short Drama Creation (In Progress)  
-> Future integration will include: seedance-2.0, veo3.1, sora2, etc.  
-> Easily create your AI short dramas/AI comics/AI creative works  
+- [ ] 🎙️ **AI Voice Recognition**: Automatically generate subtitles from audio tracks.
+- [ ] 🎬 **AI Video Translation & Dubbing**: One-click localized dubbing (e.g., English to Mandarin).
+- [ ] 🎭 **AI Creative Studio**: Integration with `Seedance-2.0`, `Veo3.1`, `Sora2` for AI short dramas and comics.
 
+---
 
-## ⚡ Online Demo    
-| Windows | MacOS | Linux |  
-| --- | --- | --- |  
-| ✅ beta | ✅ beta | ✅ beta |   
-> 👉🏻 <a href="https://juntaosun.github.io/ComeCut/" target="_blank" rel="noopener noreferrer">[ Canary build online demo ]</a>   
+## ⚡ Get Started
 
+### Online Demo
+Try the latest canary build directly in your browser:
+👉 **[Canary Build Online Demo](https://juntaosun.github.io/ComeCut/)**
 
-## 💬 Discuss with us  
--  This is an early stage project under rapid development. 
--  Right now, it’s still young! We have lots of great, new and fun creative ideas and are working hard to build it out!      
--  If you have any questions about this project, or would like to contribute, please feel free to contact us in Issues!    
+| Windows | MacOS | Linux |
+| :---: | :---: | :---: |
+| ✅ Beta | ✅ Beta | ✅ Beta |
+
+---
+
+## 💬 Community & Support
+
+- 🌟 **Early Stage**: This project is growing fast! We have many exciting features in the pipeline.
+- 💡 **Feedback**: Have an idea or found a bug? Open an [Issue](https://github.com/juntaosun/ComeCut/issues)!
+- 🤝 **Contributing**: We appreciate your interest! We recommend waiting for the project to stabilize before making major contributions.
 
 ## 👏 News
-
-- **[2025-09-07]** 🚀 **ComeCut project started!** 
+- **[2025-09-07]** 🚀 **ComeCut project officially started!**
 
 <details>
-<summary>show more</summary>
+<summary>View More</summary>
+...
 </details>
 
-## 🛡️ Privacy  
-- ComeCut does not collect any personal data.  
-- All the data is stored locally in the browser storage. You can verify it yourself.     
+---
 
-## 📝 Contributing
-
-**Note**: We appreciate the interest, it's recommended to wait until the project stabilizes before contributing to avoid conflicts and wasted effort.  
-
+## 🛡️ Privacy & Security
+- **No Data Collection**: We don't track you or collect personal information.
+- **Local Storage**: All project data is stored in your browser's local storage or your local machine.
 
 ## 🔑 License
+Copyright © 2025 **juntaosun** and contributors.
+Licensed under the [GNU Affero General Public License v3.0](LICENSE).
 
-Copyright 2025 juntaosun, and other contributors
+> **Disclaimer**: ComeCut is for educational and research purposes. Users are responsible for complying with local laws and the terms of this license.
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+---
 
->**Disclaimer**：ComeCut is an open-source project intended for educational learning and research purposes. Please ensure that your use complies with the terms of this license and strictly follows local laws and regulations. You are solely responsible for your use of ComeCut.  
-
-## 📚 Citation   
-
-🌟 If you find our work helpful, please leave us a star⭐⭐⭐⭐⭐. 
-
+<div align="center">
+  <b>If you find ComeCut helpful, please give us a star! ⭐⭐⭐⭐⭐</b>
+</div>
