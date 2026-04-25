@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-  <img src='./example/image01.png' width="90%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src='./example/image01.png' width="75%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
 ## 🎁 Why ComeCut?
@@ -58,8 +58,8 @@ Effortlessly translate subtitles into multiple languages with one click, support
 ## 🗺️ Roadmap (In Progress)
 
 - [ ] 🎙️ **AI Voice Recognition**: Automatically generate subtitles from audio tracks.
-- [ ] 🎬 **AI Video Translation & Dubbing**: One-click localized dubbing (e.g., English to Mandarin).
 - [ ] 🎭 **AI Creative Studio**: Integration with `Seedance-2.0`, `Veo3.1`, `Sora2` for AI short dramas and comics.
+- [ ] 🎬 **AI Video Translation & Dubbing**: One-click localized dubbing (e.g., English to Mandarin).
 
 ---
 
