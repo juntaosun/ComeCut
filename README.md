@@ -30,6 +30,7 @@ Our vision is to empower everyone with a professional-grade, AI-enhanced video e
 *   🔒 **Privacy First**: Fully localized processing ensures your data stays yours.
 *   🤖 **AI-Driven**: Seamlessly integrates state-of-the-art AI models.
 *   🎨 **Powerful Tools**: A full-featured editor right in your browser or desktop.
+*   👉 **ComfyUI**: It now supports workflows such as z-image, qwen-edit, klein, and ltx2.3.  
 
 ---
 
