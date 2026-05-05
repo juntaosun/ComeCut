@@ -32,13 +32,13 @@
 *   🎨 **功能强大**：提供媲美专业软件的视频编辑体验。
 *   👉 **ComfyUI**: 现已支持 z-image, qwen-edit, klein, and ltx2.* 等工作流。   
 > 备注：ComfyUI 工作流需要进行一些简单的设置以便能处理输入控制~  
-Z-Image    
-Flux-2-klein-4b/9b    
+Z-Image, Flux-2-klein-4b/9b    
 Qwen-Image-Edit-2509/2511    
 Wan2.1, Wan2.2, LTX-2.3     
 *   🍌 **Nano banana**: 现已支持谷歌Gemini 香蕉（Nano banana）生图模型如下:     
 > gemini-2.5-flash-image  
 gemini-3-pro-image-preview  
+*   ⚠️ **ASR**: Web平台音频转文本暂不可用!         
 
 ---
 
