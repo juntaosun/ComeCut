@@ -30,7 +30,15 @@
 *   🔒 **本地安全**：数据完全本地化处理，安全可靠。
 *   🤖 **AI 赋能**：深度集成前沿 AI 模型。
 *   🎨 **功能强大**：提供媲美专业软件的视频编辑体验。
-*   👉 **ComfyUI**: 现已支持 z-image, qwen-edit, klein, ltx2.3 等工作流。   
+*   👉 **ComfyUI**: 现已支持 z-image, qwen-edit, klein, ltx2.3 等工作流。  
+klein, and ltx2.*   
+> Z-Image    
+Flux-2-klein-4b/9b    
+Qwen-Image-Edit-2509/2511    
+Wan2.1, Wan2.2, LTX-2.3     
+*   🍌 **Nano banana**: 现已支持谷歌Gemini 香蕉（Nano banana）生图模型如下:     
+> gemini-2.5-flash-image  
+gemini-3-pro-image-preview  
 
 ---
 
