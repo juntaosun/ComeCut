@@ -1,101 +1,104 @@
-var e = t;
-(function() {
-	for (var e = t, n = s();;) try {
-		if (530258 === -parseInt(e(236)) / 1 + parseInt(e(235)) / 2 * (-parseInt(e(253)) / 3) + parseInt(e(249)) / 4 * (parseInt(e(228)) / 5) + parseInt(e(243)) / 6 * (-parseInt(e(239)) / 7) + -parseInt(e(226)) / 8 * (parseInt(e(247)) / 9) + parseInt(e(224)) / 10 + -parseInt(e(222)) / 11 * (-parseInt(e(248)) / 12)) break;
-		n.push(n.shift());
-	} catch (r) {
-		n.push(n.shift());
-	}
-})();
-Object[e(220)];
-function t(e, t) {
-	return e -= 218, s()[e];
-}
-var n = Object[e(245)];
-function s() {
-	var e = [
-		"exports",
-		"9814dbitGd",
-		"undefined",
-		"nVKAN",
-		"name",
-		"906CBDmCC",
-		"bind",
-		"defineProperty",
+function e() {
+	var t = [
+		"KVQDb",
 		"function",
-		"9YquXYB",
-		"592008ucUGPU",
-		"40824UhFFxr",
-		"module.exports",
-		"Module",
-		"__esModule",
-		"2529DYVwiI",
-		"vddrK",
-		"getOwnPropertyDescriptor",
-		"charCodeAt",
-		"create",
-		"apply",
-		"77FvLsZv",
-		"default",
-		"10041980DJajkJ",
+		"exports",
+		"base64",
 		"length",
-		"2073976jujaPz",
-		"toStringTag",
-		"515QkHjtN",
-		"hasOwnProperty",
-		"OaYLg",
-		"SvXaf",
+		"674964NVvVEK",
+		"module.exports",
 		"call",
-		"getPrototypeOf",
+		"defineProperty",
+		"3491330FFPrrT",
+		"getOwnPropertyNames",
+		"509804bCZyHX",
+		"hasOwnProperty",
+		"4GjUibm",
+		"OxZXi",
+		"apply",
+		"from",
+		"8BLBLXs",
+		"create",
+		"undefined",
+		"730260lyWnZB",
+		"3ZDSkIW",
+		"prototype",
+		"name",
+		"default",
+		"bind",
+		"NXZCX",
 		"enumerable",
-		"1948GYmBFz",
-		"578465LCLjPj",
-		"base64"
+		"7250733XSgQXo",
+		"\" in an environment that doesn't expose the `require` function. See https://rolldown.rs/in-depth/bundling-cjs#require-external-modules for more details.",
+		"toStringTag",
+		"389628sOAqMM",
+		"zKums",
+		"Fnmwl",
+		"2410412XqXliL",
+		"getPrototypeOf",
+		"getOwnPropertyDescriptor",
+		"Module",
+		"charCodeAt"
 	];
-	return (s = function() {
-		return e;
+	return (e = function() {
+		return t;
 	})();
 }
-Object[e(218)], Object[e(233)], Object.prototype[e(229)];
-var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S, F, I, P, L, O, z, N, B, $, D = (t, s) => {
-	var r = e;
-	let a = {};
-	for (var o in t) n(a, o, {
-		get: t[o],
+function t(t, n) {
+	return t -= 449, e()[t];
+}
+var n = t;
+(function() {
+	for (var n = t, s = e();;) try {
+		if (612330 === parseInt(n(469)) / 1 * (parseInt(n(471)) / 2) + -parseInt(n(479)) / 3 * (parseInt(n(453)) / 4) + -parseInt(n(467)) / 5 + -parseInt(n(463)) / 6 + parseInt(n(486)) / 7 * (parseInt(n(475)) / 8) + parseInt(n(450)) / 9 + -parseInt(n(478)) / 10) break;
+		s.push(s.shift());
+	} catch (r) {
+		s.push(s.shift());
+	}
+})();
+Object[n(476)];
+var s, r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S, F, I, P, L, O, z, N, B, $ = Object[n(466)], D = (Object[n(455)], Object[n(468)], Object[n(454)], Object[n(480)][n(470)], (e, t) => {
+	var s = n;
+	let r = {};
+	for (var a in e) $(r, a, {
+		get: e[a],
 		enumerable: !0
 	});
-	if (!s) {
-		if (r(231) != r(231)) {
-			for (var i = _0x3f148d[r(225)], l = new _0x2478c6(3 * (i - ("=" == _0x55707d[i - 1]) - ("=" == _0x1e3a30[i - 2])) / 4 | 0), c = 0, u = 0; c < i;) {
-				var d = _0x224623[_0x4c5478[r(219)](c++)], h = _0x42de00[_0x119d71[r(219)](c++)], _ = _0xff5dba[_0xdd5251[r(219)](c++)], p = _0x196c62[_0x564981[r(219)](c++)];
-				l[u++] = d << 2 | h >> 4, l[u++] = h << 4 | _ >> 2, l[u++] = _ << 6 | p;
-			}
-			return l;
+	if (!t) {
+		if ("KVQDb" !== s(458)) {
+			for (var o = new _0xabaf46(128), i = 0; i < 64; i++) o[i < 26 ? i + 65 : i < 52 ? i + 71 : i < 62 ? i - 4 : 4 * i - 205] = i;
+			return (e) => {
+				for (var t = s, n = e[t(462)], r = new _0xbd6655(3 * (n - ("=" == e[n - 1]) - ("=" == e[n - 2])) / 4 | 0), a = 0, i = 0; a < n;) {
+					var l = o[e.charCodeAt(a++)], c = o[e.charCodeAt(a++)], u = o[e[t(457)](a++)], d = o[e.charCodeAt(a++)];
+					r[i++] = l << 2 | c >> 4, r[i++] = c << 4 | u >> 2, r[i++] = u << 6 | d;
+				}
+				return r;
+			};
 		}
-		n(a, Symbol[r(227)], { value: r(251) });
+		$(r, Symbol[s(449)], { value: s(456) });
 	}
-	return a;
-}, R = ((() => {
+	return r;
+}), R = ((() => {
 	for (var e = new Uint8Array(128), t = 0; t < 64; t++) e[t < 26 ? t + 65 : t < 52 ? t + 71 : t < 62 ? t - 4 : 4 * t - 205] = t;
-})(), r = function(t) {
-	var n = e;
-	if (typeof require !== n(240)) return require[n(221)](this, arguments);
-	throw Error("Calling `require` for \"" + t + "\" in an environment that doesn't expose the `require` function. See https://rolldown.rs/in-depth/bundling-cjs#require-external-modules for more details.");
-}, typeof require !== e(240) ? require : "undefined" != typeof Proxy ? new Proxy(r, { get: (e, t) => ("undefined" != typeof require ? require : e)[t] }) : r), G = D({
-	InferenceSession: () => $,
-	TRACE: () => I,
-	TRACE_EVENT_BEGIN: () => z,
-	TRACE_EVENT_END: () => N,
-	TRACE_FUNC_BEGIN: () => L,
-	TRACE_FUNC_END: () => O,
-	Tensor: () => F,
+})(), s = function(e) {
+	var t = n;
+	if (typeof require !== t(477)) return require[t(473)](this, arguments);
+	throw Error("Calling `require` for \"" + e + t(487));
+}, typeof require !== n(477) ? require : typeof Proxy !== n(477) ? new Proxy(s, { get: (e, t) => (typeof require !== n(477) ? require : e)[t] }) : s), G = D({
+	InferenceSession: () => B,
+	TRACE: () => F,
+	TRACE_EVENT_BEGIN: () => O,
+	TRACE_EVENT_END: () => z,
+	TRACE_FUNC_BEGIN: () => P,
+	TRACE_FUNC_END: () => L,
+	Tensor: () => S,
 	default: () => Nn,
-	env: () => p,
-	registerBackend: () => l
-}), U = Object.defineProperty, V = Object.getOwnPropertyDescriptor, j = Object.getOwnPropertyNames, q = Object.prototype.hasOwnProperty, W = (a = function(e) {
+	env: () => _,
+	registerBackend: () => i
+}), U = Object.defineProperty, V = Object.getOwnPropertyDescriptor, j = Object.getOwnPropertyNames, q = Object.prototype.hasOwnProperty, W = (r = function(e) {
 	if (typeof R < "u") return R.apply(this, arguments);
 	throw Error("Dynamic require of \"" + e + "\" is not supported");
-}, typeof R < "u" ? R : typeof Proxy < "u" ? new Proxy(a, { get: (e, t) => (typeof R < "u" ? R : e)[t] }) : a), H = (e, t) => () => (e && (t = e(e = 0)), t), Q = (e, t) => {
+}, typeof R < "u" ? R : typeof Proxy < "u" ? new Proxy(r, { get: (e, t) => (typeof R < "u" ? R : e)[t] }) : r), H = (e, t) => () => (e && (t = e(e = 0)), t), Q = (e, t) => {
 	for (var n in t) U(e, n, {
 		get: t[n],
 		enumerable: !0
@@ -107,10 +110,10 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 	});
 	return e;
 })(U({}, "__esModule", { value: !0 }), e), Y = H(() => {
-	o = /* @__PURE__ */ new Map(), i = [], l = (e, t, n) => {
+	a = /* @__PURE__ */ new Map(), o = [], i = (e, t, n) => {
 		if (t && "function" == typeof t.init && "function" == typeof t.createInferenceSessionHandler) {
-			let s = o.get(e);
-			if (void 0 === s) o.set(e, {
+			let s = a.get(e);
+			if (void 0 === s) a.set(e, {
 				backend: t,
 				priority: n
 			});
@@ -119,16 +122,16 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 				if (s.priority === n && s.backend !== t) throw new Error(`cannot register backend "${e}" using priority ${n}`);
 			}
 			if (n >= 0) {
-				let t = i.indexOf(e);
-				-1 !== t && i.splice(t, 1);
-				for (let s = 0; s < i.length; s++) if (o.get(i[s]).priority <= n) return void i.splice(s, 0, e);
-				i.push(e);
+				let t = o.indexOf(e);
+				-1 !== t && o.splice(t, 1);
+				for (let s = 0; s < o.length; s++) if (a.get(o[s]).priority <= n) return void o.splice(s, 0, e);
+				o.push(e);
 			}
 			return;
 		}
 		throw new TypeError("not a valid backend");
-	}, c = async (e) => {
-		let t = o.get(e);
+	}, l = async (e) => {
+		let t = a.get(e);
 		if (!t) return "backend not found.";
 		if (t.initialized) return t.backend;
 		if (t.aborted) return t.error;
@@ -142,30 +145,30 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 				delete t.initPromise;
 			}
 		}
-	}, u = async (e) => {
-		let t, n = e.executionProviders || [], s = n.map((e) => "string" == typeof e ? e : e.name), r = 0 === s.length ? i : s, a = [], o = /* @__PURE__ */ new Set();
-		for (let i of r) {
-			let e = await c(i);
+	}, c = async (e) => {
+		let t, n = e.executionProviders || [], s = n.map((e) => "string" == typeof e ? e : e.name), r = 0 === s.length ? o : s, a = [], i = /* @__PURE__ */ new Set();
+		for (let o of r) {
+			let e = await l(o);
 			"string" == typeof e ? a.push({
-				name: i,
+				name: o,
 				err: e
-			}) : (t || (t = e), t === e && o.add(i));
+			}) : (t || (t = e), t === e && i.add(o));
 		}
 		if (!t) throw new Error(`no available backend found. ERR: ${a.map((e) => `[${e.name}] ${e.err}`).join(", ")}`);
-		for (let { name: i, err: c } of a) s.includes(i);
-		let l = n.filter((e) => o.has("string" == typeof e ? e : e.name));
-		return [t, new Proxy(e, { get: (e, t) => "executionProviders" === t ? l : Reflect.get(e, t) })];
+		for (let { name: o, err: l } of a) s.includes(o);
+		let c = n.filter((e) => i.has("string" == typeof e ? e : e.name));
+		return [t, new Proxy(e, { get: (e, t) => "executionProviders" === t ? c : Reflect.get(e, t) })];
 	};
 }), J = H(() => {
 	Y();
 }), K = H(() => {
-	d = "1.24.0-dev.20251116-b39e144322";
+	u = "1.24.0-dev.20251116-b39e144322";
 }), Z = H(() => {
-	K(), h = "warning", _ = {
+	K(), d = "warning", h = {
 		wasm: {},
 		webgl: {},
 		webgpu: {},
-		versions: { common: d },
+		versions: { common: u },
 		set logLevel(e) {
 			if (void 0 !== e) {
 				if ("string" != typeof e || -1 === [
@@ -175,17 +178,17 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 					"error",
 					"fatal"
 				].indexOf(e)) throw new Error(`Unsupported logging level: ${e}`);
-				h = e;
+				d = e;
 			}
 		},
 		get logLevel() {
-			return h;
+			return d;
 		}
-	}, Object.defineProperty(_, "logLevel", { enumerable: !0 });
+	}, Object.defineProperty(h, "logLevel", { enumerable: !0 });
 }), ee = H(() => {
-	Z(), p = _;
+	Z(), _ = h;
 }), te = H(() => {
-	f = (e, t) => {
+	p = (e, t) => {
 		let n = typeof document < "u" ? document.createElement("canvas") : new OffscreenCanvas(1, 1);
 		n.width = e.dims[3], n.height = e.dims[2];
 		let s = n.getContext("2d");
@@ -234,7 +237,7 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 			throw new Error("toDataURL is not supported");
 		}
 		throw new Error("Can not access image data");
-	}, m = (e, t) => {
+	}, f = (e, t) => {
 		let n, s = typeof document < "u" ? document.createElement("canvas").getContext("2d") : new OffscreenCanvas(1, 1).getContext("2d");
 		if (null == s) throw new Error("Can not access image data");
 		{
@@ -281,7 +284,7 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 		return n;
 	};
 }), ne = H(() => {
-	ae(), g = (e, t) => {
+	ae(), m = (e, t) => {
 		if (void 0 === e) throw new Error("Image buffer must be defined");
 		if (void 0 === t.height || void 0 === t.width) throw new Error("Image height and width must be defined");
 		if ("NHWC" === t.tensorLayout) throw new Error("NHWC Tensor layout is not supported yet");
@@ -313,7 +316,7 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 		let i = void 0 !== t.format ? t.format : "RGBA", l = void 0 !== t.tensorFormat && void 0 !== t.tensorFormat ? t.tensorFormat : "RGB", c = r * a, u = "RGBA" === l ? new Float32Array(4 * c) : new Float32Array(3 * c), d = 4, h = 0, _ = 1, p = 2, f = 3, m = 0, g = c, w = 2 * c, y = -1;
 		"RGB" === i && (d = 3, h = 0, _ = 1, p = 2, f = -1), "RGBA" === l ? y = 3 * c : "RBG" === l ? (m = 0, w = c, g = 2 * c) : "BGR" === l && (w = 0, g = c, m = 2 * c);
 		for (let b = 0; b < c; b++, h += d, p += d, _ += d, f += d) u[m++] = (e[h] + s[0]) / n[0], u[g++] = (e[_] + s[1]) / n[1], u[w++] = (e[p] + s[2]) / n[2], -1 !== y && -1 !== f && (u[y++] = (e[f] + s[3]) / n[3]);
-		return new S("float32", u, "RGBA" === l ? [
+		return new T("float32", u, "RGBA" === l ? [
 			1,
 			4,
 			r,
@@ -324,7 +327,7 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 			r,
 			a
 		]);
-	}, w = async (e, t) => {
+	}, g = async (e, t) => {
 		let n, s = typeof HTMLImageElement < "u" && e instanceof HTMLImageElement, r = typeof ImageData < "u" && e instanceof ImageData, a = typeof ImageBitmap < "u" && e instanceof ImageBitmap, o = "string" == typeof e, i = t ?? {}, l = () => {
 			if (typeof document < "u") return document.createElement("canvas");
 			if (typeof OffscreenCanvas < "u") return new OffscreenCanvas(1, 1);
@@ -352,7 +355,7 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 					let r = c(s);
 					if (null != r) {
 						let t = e.height, s = e.width;
-						return r.drawImage(e, 0, 0, s, t), n = r.getImageData(0, 0, s, t).data, i.height = t, i.width = s, g(n, i);
+						return r.drawImage(e, 0, 0, s, t), n = r.getImageData(0, 0, s, t).data, i.height = t, i.width = s, m(n, i);
 					}
 					throw new Error("Can not access image data");
 				}
@@ -363,7 +366,7 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 					a.crossOrigin = "Anonymous", a.src = e, a.onload = () => {
 						s.width = a.width, s.height = a.height, r.drawImage(a, 0, 0, s.width, s.height);
 						let e = r.getImageData(0, 0, s.width, s.height);
-						i.height = s.height, i.width = s.width, t(g(e.data, i));
+						i.height = s.height, i.width = s.width, t(m(e.data, i));
 					};
 				});
 				throw new Error("Input data provided is not supported - aborted tensor creation");
@@ -379,11 +382,11 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 				} else n = e.data;
 			}
 		}
-		if (void 0 !== n) return g(n, i);
+		if (void 0 !== n) return m(n, i);
 		throw new Error("Input data provided is not supported - aborted tensor creation");
-	}, y = (e, t) => {
+	}, w = (e, t) => {
 		let { width: n, height: s, download: r, dispose: a } = t;
-		return new S({
+		return new T({
 			location: "texture",
 			type: "float32",
 			texture: e,
@@ -396,9 +399,9 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 			download: r,
 			dispose: a
 		});
-	}, b = (e, t) => {
+	}, y = (e, t) => {
 		let { dataType: n, dims: s, download: r, dispose: a } = t;
-		return new S({
+		return new T({
 			location: "gpu-buffer",
 			type: n ?? "float32",
 			gpuBuffer: e,
@@ -406,9 +409,9 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 			download: r,
 			dispose: a
 		});
-	}, x = (e, t) => {
+	}, b = (e, t) => {
 		let { dataType: n, dims: s, download: r, dispose: a } = t;
-		return new S({
+		return new T({
 			location: "ml-tensor",
 			type: n ?? "float32",
 			mlTensor: e,
@@ -416,14 +419,14 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 			download: r,
 			dispose: a
 		});
-	}, v = (e, t, n) => new S({
+	}, x = (e, t, n) => new T({
 		location: "cpu-pinned",
 		type: e,
 		data: t,
 		dims: n ?? [t.length]
 	});
 }), se = H(() => {
-	M = new Map([
+	v = new Map([
 		["float32", Float32Array],
 		["uint8", Uint8Array],
 		["int8", Int8Array],
@@ -435,7 +438,7 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 		["uint32", Uint32Array],
 		["int4", Uint8Array],
 		["uint4", Uint8Array]
-	]), k = new Map([
+	]), M = new Map([
 		[Float32Array, "float32"],
 		[Uint8Array, "uint8"],
 		[Int8Array, "int8"],
@@ -444,15 +447,15 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 		[Int32Array, "int32"],
 		[Float64Array, "float64"],
 		[Uint32Array, "uint32"]
-	]), E = !1, A = () => {
-		if (!E) {
-			E = !0;
+	]), k = !1, E = () => {
+		if (!k) {
+			k = !0;
 			let e = typeof BigInt64Array < "u" && BigInt64Array.from, t = typeof BigUint64Array < "u" && BigUint64Array.from, n = globalThis.Float16Array, s = typeof n < "u" && n.from;
-			e && (M.set("int64", BigInt64Array), k.set(BigInt64Array, "int64")), t && (M.set("uint64", BigUint64Array), k.set(BigUint64Array, "uint64")), s ? (M.set("float16", n), k.set(n, "float16")) : M.set("float16", Uint16Array);
+			e && (v.set("int64", BigInt64Array), M.set(BigInt64Array, "int64")), t && (v.set("uint64", BigUint64Array), M.set(BigUint64Array, "uint64")), s ? (v.set("float16", n), M.set(n, "float16")) : v.set("float16", Uint16Array);
 		}
 	};
 }), re = H(() => {
-	ae(), C = (e) => {
+	ae(), A = (e) => {
 		let t = 1;
 		for (let n = 0; n < e.length; n++) {
 			let s = e[n];
@@ -461,28 +464,28 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 			t *= s;
 		}
 		return t;
-	}, T = (e, t) => {
+	}, C = (e, t) => {
 		switch (e.location) {
-			case "cpu": return new S(e.type, e.data, t);
-			case "cpu-pinned": return new S({
+			case "cpu": return new T(e.type, e.data, t);
+			case "cpu-pinned": return new T({
 				location: "cpu-pinned",
 				data: e.data,
 				type: e.type,
 				dims: t
 			});
-			case "texture": return new S({
+			case "texture": return new T({
 				location: "texture",
 				texture: e.texture,
 				type: e.type,
 				dims: t
 			});
-			case "gpu-buffer": return new S({
+			case "gpu-buffer": return new T({
 				location: "gpu-buffer",
 				gpuBuffer: e.gpuBuffer,
 				type: e.type,
 				dims: t
 			});
-			case "ml-tensor": return new S({
+			case "ml-tensor": return new T({
 				location: "ml-tensor",
 				mlTensor: e.mlTensor,
 				type: e.type,
@@ -492,12 +495,12 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 		}
 	};
 }), ae = H(() => {
-	te(), ne(), se(), re(), S = class {
+	te(), ne(), se(), re(), T = class {
 		constructor(e, t, n) {
 			let s, r;
-			if (A(), "object" == typeof e && "location" in e) switch (this.dataLocation = e.location, s = e.type, r = e.dims, e.location) {
+			if (E(), "object" == typeof e && "location" in e) switch (this.dataLocation = e.location, s = e.type, r = e.dims, e.location) {
 				case "cpu-pinned": {
-					let t = M.get(s);
+					let t = v.get(s);
 					if (!t) throw new TypeError(`unsupported type "${s}" to create tensor from pinned buffer`);
 					if (!(e.data instanceof t)) throw new TypeError(`buffer should be of type ${t.name}`);
 					this.cpuData = e.data;
@@ -523,7 +526,7 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 					if (!Array.isArray(t)) throw new TypeError("A string tensor's data must be a string array.");
 					a = t;
 				} else {
-					let n = M.get(e);
+					let n = v.get(e);
 					if (void 0 === n) throw new TypeError(`Unsupported tensor type: ${e}.`);
 					if (Array.isArray(t)) {
 						if ("float16" === e && n === Uint16Array || "uint4" === e || "int4" === e) throw new TypeError(`Creating a ${e} tensor from number array is not supported. Please use ${n.name} as data.`);
@@ -547,7 +550,7 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 					}
 				} else if (e instanceof Uint8ClampedArray) s = "uint8", a = Uint8Array.from(e);
 				else {
-					let t = k.get(e.constructor);
+					let t = M.get(e.constructor);
 					if (void 0 === t) throw new TypeError(`Unsupported type for tensor data: ${e.constructor}.`);
 					s = t, a = e;
 				}
@@ -555,30 +558,30 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 				else if (!Array.isArray(o)) throw new TypeError("A tensor's dims must be a number array");
 				r = o, this.cpuData = a, this.dataLocation = "cpu";
 			}
-			let a = C(r);
+			let a = A(r);
 			if (this.cpuData && a !== this.cpuData.length && ("uint4" !== s && "int4" !== s || Math.ceil(a / 2) !== this.cpuData.length)) throw new Error(`Tensor's size(${a}) does not match data length(${this.cpuData.length}).`);
 			this.type = s, this.dims = r, this.size = a;
 		}
 		static async fromImage(e, t) {
-			return w(e, t);
+			return g(e, t);
 		}
 		static fromTexture(e, t) {
-			return y(e, t);
+			return w(e, t);
 		}
 		static fromGpuBuffer(e, t) {
-			return b(e, t);
+			return y(e, t);
 		}
 		static fromMLTensor(e, t) {
-			return x(e, t);
+			return b(e, t);
 		}
 		static fromPinnedBuffer(e, t, n) {
-			return v(e, t, n);
+			return x(e, t, n);
 		}
 		toDataURL(e) {
-			return f(this, e);
+			return p(this, e);
 		}
 		toImageData(e) {
-			return m(this, e);
+			return f(this, e);
 		}
 		get data() {
 			if (this.ensureValid(), !this.cpuData) throw new Error("The data is not on CPU. Use `getData()` to download GPU data to CPU, or use `texture` or `gpuBuffer` property to access the GPU data directly.");
@@ -627,46 +630,46 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 		}
 		reshape(e) {
 			if (this.ensureValid(), this.downloader || this.disposer) throw new Error("Cannot reshape a tensor that owns GPU resource.");
-			return T(this, e);
+			return C(this, e);
 		}
 	};
 }), oe = H(() => {
-	ae(), F = S;
+	ae(), S = T;
 }), ie = H(() => {
-	Z(), I = (e, t) => {
-		typeof _.trace > "u" ? _.wasm.trace : _.trace;
-	}, P = (e, t) => {
+	Z(), F = (e, t) => {
+		typeof h.trace > "u" ? h.wasm.trace : h.trace;
+	}, I = (e, t) => {
 		let n = (/* @__PURE__ */ new Error()).stack?.split(/\r\n|\r|\n/g) || [], s = !1;
 		for (let r = 0; r < n.length; r++) {
 			if (s && !n[r].includes("TRACE_FUNC")) {
 				let s = `FUNC_${e}::${n[r].trim().split(" ")[1]}`;
-				t && (s += `::${t}`), I("CPU", s);
+				t && (s += `::${t}`), F("CPU", s);
 				return;
 			}
 			n[r].includes("TRACE_FUNC") && (s = !0);
 		}
+	}, P = (e) => {
+		(typeof h.trace > "u" ? !h.wasm.trace : !h.trace) || I("BEGIN", e);
 	}, L = (e) => {
-		(typeof _.trace > "u" ? !_.wasm.trace : !_.trace) || P("BEGIN", e);
+		(typeof h.trace > "u" ? !h.wasm.trace : !h.trace) || I("END", e);
 	}, O = (e) => {
-		(typeof _.trace > "u" ? !_.wasm.trace : !_.trace) || P("END", e);
+		typeof h.trace > "u" ? h.wasm.trace : h.trace;
 	}, z = (e) => {
-		typeof _.trace > "u" ? _.wasm.trace : _.trace;
-	}, N = (e) => {
-		typeof _.trace > "u" ? _.wasm.trace : _.trace;
+		typeof h.trace > "u" ? h.wasm.trace : h.trace;
 	};
 }), le = H(() => {
-	Y(), oe(), ie(), B = class e {
+	Y(), oe(), ie(), N = class e {
 		constructor(e) {
 			this.handler = e;
 		}
 		async run(e, t, n) {
-			L(), z("InferenceSession.run");
+			P(), O("InferenceSession.run");
 			let s = {}, r = {};
-			if ("object" != typeof e || null === e || e instanceof F || Array.isArray(e)) throw new TypeError("'feeds' must be an object that use input names as keys and OnnxValue as corresponding values.");
+			if ("object" != typeof e || null === e || e instanceof S || Array.isArray(e)) throw new TypeError("'feeds' must be an object that use input names as keys and OnnxValue as corresponding values.");
 			let a = !0;
 			if ("object" == typeof t) {
 				if (null === t) throw new TypeError("Unexpected argument[1]: cannot be null.");
-				if (t instanceof F) throw new TypeError("'fetches' cannot be a Tensor");
+				if (t instanceof S) throw new TypeError("'fetches' cannot be a Tensor");
 				if (Array.isArray(t)) {
 					if (0 === t.length) throw new TypeError("'fetches' cannot be an empty array.");
 					a = !1;
@@ -681,7 +684,7 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 					let e = !1, o = Object.getOwnPropertyNames(t);
 					for (let n of this.outputNames) if (-1 !== o.indexOf(n)) {
 						let r = t[n];
-						(null === r || r instanceof F) && (e = !0, a = !1, s[n] = r);
+						(null === r || r instanceof S) && (e = !0, a = !1, s[n] = r);
 					}
 					if (e) {
 						if ("object" == typeof n && null !== n) r = n;
@@ -694,15 +697,15 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 			let o = await this.handler.run(e, s, r), i = {};
 			for (let l in o) if (Object.hasOwnProperty.call(o, l)) {
 				let e = o[l];
-				i[l] = e instanceof F ? e : new F(e.type, e.data, e.dims);
+				i[l] = e instanceof S ? e : new S(e.type, e.data, e.dims);
 			}
-			return N("InferenceSession.run"), O(), i;
+			return z("InferenceSession.run"), L(), i;
 		}
 		async release() {
 			return this.handler.dispose();
 		}
 		static async create(t, n, s, r) {
-			L(), z("InferenceSession.create");
+			P(), O("InferenceSession.create");
 			let a, o = {};
 			if ("string" == typeof t) {
 				if (a = t, "object" == typeof n && null !== n) o = n;
@@ -728,8 +731,8 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 					a = new Uint8Array(e, i, l);
 				}
 			}
-			let [i, l] = await u(o), c = await i.createInferenceSessionHandler(a, l);
-			return N("InferenceSession.create"), O(), new e(c);
+			let [i, l] = await c(o), u = await i.createInferenceSessionHandler(a, l);
+			return z("InferenceSession.create"), L(), new e(u);
 		}
 		startProfiling() {
 			this.handler.startProfiling();
@@ -751,18 +754,18 @@ var r, a, o, i, l, c, u, d, h, _, p, f, m, g, w, y, b, x, v, M, k, E, A, C, T, S
 		}
 	};
 }), ce = H(() => {
-	le(), $ = B;
+	le(), B = N;
 }), ue = H(() => {}), de = H(() => {}), he = H(() => {}), _e = H(() => {}), pe = {};
 Q(pe, {
-	InferenceSession: () => $,
-	TRACE: () => I,
-	TRACE_EVENT_BEGIN: () => z,
-	TRACE_EVENT_END: () => N,
-	TRACE_FUNC_BEGIN: () => L,
-	TRACE_FUNC_END: () => O,
-	Tensor: () => F,
-	env: () => p,
-	registerBackend: () => l
+	InferenceSession: () => B,
+	TRACE: () => F,
+	TRACE_EVENT_BEGIN: () => O,
+	TRACE_EVENT_END: () => z,
+	TRACE_FUNC_BEGIN: () => P,
+	TRACE_FUNC_END: () => L,
+	Tensor: () => S,
+	env: () => _,
+	registerBackend: () => i
 });
 var fe = H(() => {
 	J(), ee(), ce(), oe(), ue(), de(), ie(), he(), _e();
@@ -4191,16 +4194,16 @@ var Vt, jt, qt, Wt, Ht, Qt, Xt, Yt, Jt, Kt, Zt, en, tn, nn, sn, rn, an, on, ln, 
 		if (!l) throw new Error(`cannot run inference. invalid session id: ${e}`);
 		let c = l[0], u = l[1], d = l[2], h = l[3], _ = l[4], p = l[5], f = t.length, m = s.length, g = 0, w = [], y = [], b = [], x = [], v = [], M = o.stackSave(), k = o.stackAlloc(f * i), E = o.stackAlloc(f * i), A = o.stackAlloc(m * i), C = o.stackAlloc(m * i);
 		try {
-			[g, w] = Je(a), z("wasm prepareInputOutputTensor");
+			[g, w] = Je(a), O("wasm prepareInputOutputTensor");
 			for (let s = 0; s < f; s++) await tn(n[s], y, x, e, u[t[s]], t[s], _);
 			for (let t = 0; t < m; t++) await tn(r[t], b, x, e, d[s[t]], f + s[t], _);
-			N("wasm prepareInputOutputTensor");
+			z("wasm prepareInputOutputTensor");
 			for (let e = 0; e < f; e++) o.setValue(k + e * i, y[e], "*"), o.setValue(E + e * i, u[t[e]], "*");
 			for (let e = 0; e < m; e++) o.setValue(A + e * i, b[e], "*"), o.setValue(C + e * i, d[s[e]], "*");
 			if (h && !p) {
 				let { handle: n, outputPreferredLocations: a, outputPreferredLocationsEncoded: i } = h;
 				if (u.length !== f) throw new Error(`input count from feeds (${f}) is expected to be always equal to model's input count (${u.length}).`);
-				z("wasm bindInputsOutputs");
+				O("wasm bindInputsOutputs");
 				for (let s = 0; s < f; s++) {
 					let r = t[s];
 					0 !== await o._OrtBindInput(n, u[r], y[s]) && Ye(`Can't bind input[${s}] for session=${e}.`);
@@ -4209,7 +4212,7 @@ var Vt, jt, qt, Wt, Ht, Qt, Xt, Yt, Jt, Kt, Zt, en, tn, nn, sn, rn, an, on, ln, 
 					let l = s[t];
 					r[t]?.[3] ? (v.push(b[t]), 0 !== o._OrtBindOutput(n, d[l], b[t], 0) && Ye(`Can't bind pre-allocated output[${t}] for session=${e}.`)) : 0 !== o._OrtBindOutput(n, d[l], 0, i[l]) && Ye(`Can't bind output[${t}] to ${a[t]} for session=${e}.`);
 				}
-				N("wasm bindInputsOutputs"), Xt.set(e, [
+				z("wasm bindInputsOutputs"), Xt.set(e, [
 					c,
 					u,
 					d,
@@ -4221,7 +4224,7 @@ var Vt, jt, qt, Wt, Ht, Qt, Xt, Yt, Jt, Kt, Zt, en, tn, nn, sn, rn, an, on, ln, 
 			let l;
 			o.jsepOnRunStart?.(c), o.webnnOnRunStart?.(c), l = h ? await o._OrtRunWithBinding(c, h.handle, m, A, g) : await o._OrtRun(c, E, k, f, C, m, A, g), 0 !== l && Ye("failed to call OrtRun().");
 			let M = [], T = [];
-			z("wasm ProcessOutputTensor");
+			O("wasm ProcessOutputTensor");
 			for (let t = 0; t < m; t++) {
 				let n = Number(o.getValue(A + t * i, "*"));
 				if (n === b[t] || v.includes(b[t])) {
@@ -4328,7 +4331,7 @@ var Vt, jt, qt, Wt, Ht, Qt, Xt, Yt, Jt, Kt, Zt, en, tn, nn, sn, rn, an, on, ln, 
 				!1
 			]));
 			for (let [e, t] of await Promise.all(T)) M[e][2] = t;
-			return N("wasm ProcessOutputTensor"), M;
+			return z("wasm ProcessOutputTensor"), M;
 		} finally {
 			o.webnnOnRunEnd?.(c), o.stackRestore(M), n.forEach((e) => {
 				e && "gpu-buffer" === e[3] && o.webgpuUnregisterBuffer(e[2].gpuBuffer);
@@ -4350,7 +4353,7 @@ var Vt, jt, qt, Wt, Ht, Qt, Xt, Yt, Jt, Kt, Zt, en, tn, nn, sn, rn, an, on, ln, 
 		return t;
 	};
 }), Sn = H(() => {
-	fe(), Tn(), Lt(), Pt(), an = () => !!p.wasm.proxy && typeof document < "u", ln = !1, cn = !1, un = !1, _n = /* @__PURE__ */ new Map(), pn = (e, t) => {
+	fe(), Tn(), Lt(), Pt(), an = () => !!_.wasm.proxy && typeof document < "u", ln = !1, cn = !1, un = !1, _n = /* @__PURE__ */ new Map(), pn = (e, t) => {
 		let n = _n.get(e);
 		n ? n.push(t) : _n.set(e, [t]);
 	}, fn = () => {
@@ -4381,7 +4384,7 @@ var Vt, jt, qt, Wt, Ht, Qt, Xt, Yt, Jt, Kt, Zt, en, tn, nn, sn, rn, an, on, ln, 
 						(on = s).onerror = (e) => t(e), on.onmessage = mn, hn = [e, t];
 						let r = {
 							type: "init-wasm",
-							in: p
+							in: _
 						};
 						!r.in.wasm.wasmPaths && (n || Ce) && (r.in.wasm.wasmPaths = { wasm: new URL("" + new URL("../ort-wasm-simd-threaded.asyncify-DMmc6YqF.wasm", import.meta.url).href, "" + import.meta.url).href }), on.postMessage(r), dn = n;
 					} catch (r) {
@@ -4390,9 +4393,9 @@ var Vt, jt, qt, Wt, Ht, Qt, Xt, Yt, Jt, Kt, Zt, en, tn, nn, sn, rn, an, on, ln, 
 				}, t);
 			});
 			try {
-				await We(p.wasm), await Ht(p), cn = !0;
-			} catch (a) {
-				throw un = !0, a;
+				await We(_.wasm), await Ht(_), cn = !0;
+			} catch (r) {
+				throw un = !0, r;
 			} finally {
 				ln = !1;
 			}
@@ -4404,12 +4407,12 @@ var Vt, jt, qt, Wt, Ht, Qt, Xt, Yt, Jt, Kt, Zt, en, tn, nn, sn, rn, an, on, ln, 
 				type: "init-ep",
 				in: {
 					epName: e,
-					env: p
+					env: _
 				}
 			};
 			on.postMessage(s);
 		});
-		await Qt(p, e);
+		await Qt(_, e);
 	}, yn = async (e) => an() ? (fn(), new Promise((t, n) => {
 		pn("copy-from", [t, n]);
 		let s = {
@@ -4499,12 +4502,12 @@ var Vt, jt, qt, Wt, Ht, Qt, Xt, Yt, Jt, Kt, Zt, en, tn, nn, sn, rn, an, on, ln, 
 		}
 	}, En = (e) => {
 		switch (e[3]) {
-			case "cpu": return new F(e[0], e[2], e[1]);
+			case "cpu": return new S(e[0], e[2], e[1]);
 			case "gpu-buffer": {
 				let t = e[0];
 				if (!ut(t)) throw new Error(`not supported data type: ${t} for deserializing GPU tensor`);
 				let { gpuBuffer: n, download: s, dispose: r } = e[2];
-				return F.fromGpuBuffer(n, {
+				return S.fromGpuBuffer(n, {
 					dataType: t,
 					dims: e[1],
 					download: s,
@@ -4515,7 +4518,7 @@ var Vt, jt, qt, Wt, Ht, Qt, Xt, Yt, Jt, Kt, Zt, en, tn, nn, sn, rn, an, on, ln, 
 				let t = e[0];
 				if (!dt(t)) throw new Error(`not supported data type: ${t} for deserializing MLTensor tensor`);
 				let { mlTensor: n, download: s, dispose: r } = e[2];
-				return F.fromMLTensor(n, {
+				return S.fromMLTensor(n, {
 					dataType: t,
 					dims: e[1],
 					download: s,
@@ -4530,13 +4533,13 @@ var Vt, jt, qt, Wt, Ht, Qt, Xt, Yt, Jt, Kt, Zt, en, tn, nn, sn, rn, an, on, ln, 
 		}
 		async loadModel(e, t) {
 			let n;
-			L(), n = "string" == typeof e ? await this.fetchModelAndCopyToWasmMemory(e) : e, [this.sessionId, this.inputNames, this.outputNames, this.inputMetadata, this.outputMetadata] = await bn(n, t), O();
+			P(), n = "string" == typeof e ? await this.fetchModelAndCopyToWasmMemory(e) : e, [this.sessionId, this.inputNames, this.outputNames, this.inputMetadata, this.outputMetadata] = await bn(n, t), L();
 		}
 		async dispose() {
 			return xn(this.sessionId);
 		}
 		async run(e, t, n) {
-			L();
+			P();
 			let s = [], r = [];
 			Object.entries(e).forEach((e) => {
 				let t = e[0], n = e[1], a = this.inputNames.indexOf(t);
@@ -4551,7 +4554,7 @@ var Vt, jt, qt, Wt, Ht, Qt, Xt, Yt, Jt, Kt, Zt, en, tn, nn, sn, rn, an, on, ln, 
 			});
 			let i = s.map((e, t) => kn(e, () => `input "${this.inputNames[r[t]]}"`)), l = a.map((e, t) => e ? kn(e, () => `output "${this.outputNames[o[t]]}"`) : null), c = await vn(this.sessionId, r, i, o, l, n), u = {};
 			for (let d = 0; d < c.length; d++) u[this.outputNames[o[d]]] = a[d] ?? En(c[d]);
-			return O(), u;
+			return L(), u;
 		}
 		startProfiling() {}
 		endProfiling() {
@@ -4566,12 +4569,12 @@ Q(In, {
 });
 var Pn, Ln, On, zn = H(() => {
 	fe(), Sn(), Fn(), Pn = () => {
-		("number" != typeof p.wasm.initTimeout || p.wasm.initTimeout < 0) && (p.wasm.initTimeout = 0);
-		let e = p.wasm.simd;
-		if ("boolean" != typeof e && void 0 !== e && "fixed" !== e && "relaxed" !== e && (p.wasm.simd = !1), "boolean" != typeof p.wasm.proxy && (p.wasm.proxy = !1), "boolean" != typeof p.wasm.trace && (p.wasm.trace = !1), "number" != typeof p.wasm.numThreads || !Number.isInteger(p.wasm.numThreads) || p.wasm.numThreads <= 0) if (typeof self < "u" && !self.crossOriginIsolated) p.wasm.numThreads = 1;
+		("number" != typeof _.wasm.initTimeout || _.wasm.initTimeout < 0) && (_.wasm.initTimeout = 0);
+		let e = _.wasm.simd;
+		if ("boolean" != typeof e && void 0 !== e && "fixed" !== e && "relaxed" !== e && (_.wasm.simd = !1), "boolean" != typeof _.wasm.proxy && (_.wasm.proxy = !1), "boolean" != typeof _.wasm.trace && (_.wasm.trace = !1), "number" != typeof _.wasm.numThreads || !Number.isInteger(_.wasm.numThreads) || _.wasm.numThreads <= 0) if (typeof self < "u" && !self.crossOriginIsolated) _.wasm.numThreads = 1;
 		else {
 			let e = typeof navigator > "u" ? W("node:os").cpus().length : navigator.hardwareConcurrency;
-			p.wasm.numThreads = Math.min(4, Math.ceil((e || 1) / 2));
+			_.wasm.numThreads = Math.min(4, Math.ceil((e || 1) / 2));
 		}
 	}, On = new (Ln = class {
 		async init(e) {
@@ -4587,9 +4590,9 @@ fe(), fe(), fe();
 var Nn = pe;
 {
 	let e = (zn(), X(In)).wasmBackend;
-	l("webgpu", e, 5), l("webnn", e, 5), l("cpu", e, 10), l("wasm", e, 10);
+	i("webgpu", e, 5), i("webnn", e, 5), i("cpu", e, 10), i("wasm", e, 10);
 }
-Object.defineProperty(p.versions, "web", {
+Object.defineProperty(_.versions, "web", {
 	value: "1.26.0-dev.20260416-b7804b056c",
 	enumerable: !0
 });
@@ -19692,43 +19695,43 @@ var pC = class {
 		super.end(), this.on_finalize?.();
 	}
 };
-const wC = yC;
-function yC(e, t) {
-	return e -= 305, bC()[e];
-}
-function bC() {
+const wC = bC;
+function yC() {
 	const e = [
-		"11545690BvaYVO",
-		"Small",
-		"onnx-community/whisper-large-v3-turbo",
-		"2669058NBcjqS",
 		"onnx-community/whisper-tiny",
-		"whisper-medium",
-		"15190ANDEmE",
+		"Medium",
 		"onnx-community/whisper-medium",
-		"1753644xmkLmG",
-		"Tiny",
-		"7MDtKmV",
-		"High",
-		"1335210tIZZAQ",
-		"onnx-community/whisper-small",
-		"2559805DRsNvN",
-		"53iNjRUz",
-		"Best",
-		"4yUGkor",
-		"3686128uhSsDC",
-		"whisper-small",
+		"8PyQmXz",
+		"7130137PHTWZY",
+		"284cQaZTe",
+		"Large v3 Turbo",
+		"1167078sNOZqa",
+		"1213888gpOFYa",
 		"Balanced",
-		"Fastest"
+		"whisper-medium",
+		"12382497HuRSSg",
+		"Fastest",
+		"whisper-small",
+		"Tiny",
+		"2196954QhFbSH",
+		"High",
+		"Best",
+		"2335CweTwT",
+		"1525495PUOQba",
+		"onnx-community/whisper-small",
+		"whisper-tiny"
 	];
-	return (bC = function() {
+	return (yC = function() {
 		return e;
 	})();
 }
+function bC(e, t) {
+	return e -= 403, yC()[e];
+}
 (function() {
-	const e = yC, t = bC();
+	const e = bC, t = yC();
 	for (;;) try {
-		if (-parseInt(e(310)) / 1 * (parseInt(e(323)) / 2) + -parseInt(e(307)) / 3 + parseInt(e(312)) / 4 * (parseInt(e(309)) / 5) + -parseInt(e(325)) / 6 + -parseInt(e(305)) / 7 * (parseInt(e(313)) / 8) + parseInt(e(320)) / 9 + parseInt(e(317)) / 10 == 362447) break;
+		if (parseInt(e(420)) / 1 * (parseInt(e(407)) / 2) + parseInt(e(409)) / 3 + parseInt(e(410)) / 4 + -parseInt(e(421)) / 5 + parseInt(e(417)) / 6 + parseInt(e(406)) / 7 + parseInt(e(405)) / 8 * (-parseInt(e(413)) / 9) == 727886) break;
 		t.push(t.shift());
 	} catch (n) {
 		t.push(t.shift());
@@ -19736,216 +19739,226 @@ function bC() {
 })();
 const xC = [
 	{
-		id: "whisper-tiny",
-		name: wC(326),
-		huggingFaceId: wC(321),
-		description: wC(316)
+		id: wC(423),
+		name: wC(416),
+		huggingFaceId: wC(424),
+		description: wC(414)
 	},
 	{
-		id: wC(314),
-		name: wC(318),
-		huggingFaceId: wC(308),
-		description: wC(315)
+		id: wC(415),
+		name: "Small",
+		huggingFaceId: wC(422),
+		description: wC(411)
 	},
 	{
-		id: wC(322),
-		name: "Medium",
-		huggingFaceId: wC(324),
-		description: wC(306)
+		id: wC(412),
+		name: wC(403),
+		huggingFaceId: wC(404),
+		description: wC(418)
 	},
 	{
 		id: "whisper-large-v3-turbo",
-		name: "Large v3 Turbo",
-		huggingFaceId: wC(319),
-		description: wC(311)
+		name: wC(408),
+		huggingFaceId: "onnx-community/whisper-large-v3-turbo",
+		description: wC(419)
 	}
-], vC = (wC(314), MC);
-function MC(e, t) {
-	return e -= 335, EC()[e];
-}
+], vC = (wC(415), IC);
 (function() {
-	const e = MC, t = EC();
+	const e = IC, t = PC();
 	for (;;) try {
-		if (-parseInt(e(417)) / 1 + parseInt(e(423)) / 2 + parseInt(e(337)) / 3 * (parseInt(e(403)) / 4) + -parseInt(e(335)) / 5 * (-parseInt(e(426)) / 6) + -parseInt(e(408)) / 7 * (parseInt(e(349)) / 8) + parseInt(e(425)) / 9 + parseInt(e(406)) / 10 * (-parseInt(e(384)) / 11) == 922433) break;
+		if (parseInt(e(531)) / 1 * (parseInt(e(437)) / 2) + parseInt(e(481)) / 3 * (parseInt(e(474)) / 4) + -parseInt(e(468)) / 5 + -parseInt(e(441)) / 6 + -parseInt(e(530)) / 7 * (parseInt(e(514)) / 8) + parseInt(e(498)) / 9 + -parseInt(e(489)) / 10 == 209080) break;
 		t.push(t.shift());
 	} catch (n) {
 		t.push(t.shift());
 	}
 })();
-const kC = [{
-	name: vC(419),
-	host: vC(396)
+const MC = [{
+	name: vC(486),
+	host: "huggingface.co"
 }];
-function EC() {
+let kC = "huggingface.co", EC = !1;
+async function AC() {
+	const e = vC;
+	if (EC) return;
+	self.postMessage({
+		type: e(488),
+		status: "🛰️ 正在检测最佳下载源..."
+	});
+	const t = (await Promise[e(458)](MC[e(526)]((t) => async function(e) {
+		const t = vC;
+		self[t(465)]({
+			type: t(488),
+			status: t(478) + e + "..."
+		});
+		const n = t(493) + e + "/", s = new AbortController(), r = setTimeout(() => s[t(527)](), 5e3), a = Date.now();
+		try {
+			if ("khOUk" !== t(532)) {
+				await fetch(n, {
+					method: t(511),
+					mode: t(432),
+					signal: s[t(508)]
+				}), clearTimeout(r);
+				const o = Date[t(500)]() - a, i = {
+					host: e,
+					latency: o
+				};
+				return self[t(465)]({
+					type: t(488),
+					status: "源 " + e + " 探测完成, 延迟: " + o + "ms"
+				}), i;
+			}
+			_0x212981[t(451)](_0x4e0819, {
+				loaded: _0x2d5be2[t(462)],
+				total: _0x33fdc5.total
+			});
+		} catch (o) {
+			return t(482) === t(460) ? void _0x49c9c5[t(465)]({
+				type: t(449),
+				error: t(469)
+			}) : (clearTimeout(r), self[t(465)]({
+				type: t(488),
+				status: "源 " + e + " 不可用"
+			}), null);
+		}
+	}(t[e(515)]))))[e(509)]((e) => null !== e);
+	if (0 === t[e(455)]) throw new Error(e(463) + kC + " 不可用，请检查网络连接。");
+	t[e(492)]((t, n) => t[e(473)] - n[e(473)]), kC = t[0].host, self.postMessage({
+		type: e(488),
+		status: e(443) + kC + e(517) + t[0][e(473)] + e(461)
+	}), xs[e(522)] = e(493) + kC, EC = !0;
+}
+xs[vC(502)] = !0, xs[vC(528)] = !0, xs[vC(475)] = !1;
+let CC = null, TC = !1, SC = -1;
+const FC = /* @__PURE__ */ new Map();
+function IC(e, t) {
+	return e -= 432, PC()[e];
+}
+function PC() {
 	const e = [
-		" 不可用:",
-		"175MTlYEq",
-		"status",
-		"all",
-		"postMessage",
-		"正在探测源连通性: ",
-		"transcribe-error",
-		"init-complete",
-		"error",
-		"automatic-speech-recognition",
-		"353057VbdVcO",
-		"init-error",
-		"official",
-		"isArray",
-		"正在准备加载模型: ",
-		"file",
-		"3265170EhYeDM",
-		"length",
-		"5730012DOFESZ",
-		"6aGNAzx",
-		"min",
-		"下载源 ",
-		"data",
-		"useBrowserCache",
-		"onmessage",
-		"RBdSr",
-		"转录过程中发生未知错误",
-		"modelId",
-		"WOAIu",
-		"3152105QKzLox",
-		"loaded",
-		"687129wUuFiG",
-		"timestamp",
-		"UrEan",
-		"cancel",
-		"huggingFaceId",
-		"log",
-		"qrZXR",
-		"progress",
-		"init-progress",
-		"max",
-		"🚀 已选定最佳源: ",
-		"transcribe-progress",
-		"516632KhBXup",
-		"host",
-		"get",
-		"remoteHost",
-		"识别完成！",
-		"tokenizer",
-		"allowRemote",
-		"total",
-		"floor",
-		"chunks",
-		"find",
-		"map",
-		"准备开始 (时长: ",
-		"Failed to load model",
-		"sPyJf",
-		"sort",
-		" (延迟: ",
-		"WavDi",
-		"type",
-		"signal",
-		"allowLocalModels:",
-		"push",
-		"NUYDS",
-		"warn",
-		"filter",
-		"BfZMz",
-		"ms)",
-		"latency",
-		"XOxKq",
-		"auto",
-		"set",
-		"[ASR Worker] 初始化失败:",
-		" 探测完成, 延迟: ",
-		"values",
+		"AckJA",
 		"now",
-		"22TefWsl",
-		"🛰️ 正在检测最佳下载源...",
-		"模型未初始化",
-		" 不可用，请检查网络连接。",
-		"transcribe-complete",
-		"done",
-		"tFLOw",
-		"round",
-		"qbTmD",
-		"allowRemoteModels",
-		"https://",
-		"no-cors",
-		"huggingface.co",
-		"[ASR Worker] 端点 ",
-		"text",
-		"[ASR Worker] 🚀 已选定最佳源: ",
-		"lUhgF",
-		"allowLocalModels",
-		"...",
-		"20JhyuOV",
+		"BDrPr",
+		"useBrowserCache",
+		"rptau",
 		"message",
+		"auto",
+		"transcribe",
+		"clear",
+		"signal",
+		"filter",
+		"allowRemote",
+		"HEAD",
+		"text",
+		" 不可用:",
+		"1072xNcbfN",
+		"host",
+		"[ASR Worker] 端点 ",
+		" (延迟: ",
+		"allowLocalModels:",
+		"正在转录:",
+		"识别完成！",
+		"min",
+		"remoteHost",
+		"init-progress",
+		"vsPPA",
+		"huggingFaceId",
+		"map",
+		"abort",
+		"allowRemoteModels",
+		"[ASR Worker] 🚀 已选定最佳源: ",
+		"8869MkfpGH",
+		"606rswVdL",
+		"LXJKt",
+		"init",
+		"no-cors",
+		"秒)...",
+		"[ASR Worker] 初始化失败:",
+		"init-error",
+		"AeDiG",
+		"422HVcuFY",
+		"loaded",
+		"log",
+		"MqsoG",
+		"232860SxTVku",
+		"...",
+		"🚀 已选定最佳源: ",
+		"error",
+		"dqGvj",
+		"status",
+		"floor",
+		"正在准备加载模型: ",
+		"transcribe-error",
+		"modelId",
+		"set",
+		"values",
+		" 不可用",
+		"warn",
+		"length",
+		"automatic-speech-recognition",
+		"push",
+		"all",
+		"type",
+		"XgKPu",
+		"ms)",
+		"total",
+		"下载源 ",
+		"language",
+		"postMessage",
+		"aRfyb",
+		"ping",
+		"163895lDQdpZ",
+		"模型未初始化",
+		"transcribe-progress",
+		"pong",
+		"Failed to load model",
+		"latency",
+		"4SogYUP",
+		"allowLocalModels",
+		"NDGmq",
+		"转录过程中发生未知错误",
+		"正在探测源连通性: ",
+		"progress",
+		"LkDNP",
+		"1154067JyBeZb",
+		"wwjJn",
+		"cancel",
+		"准备开始 (时长: ",
+		"audio",
+		"official",
+		"round",
 		"init-status",
-		"5774620rnhFuu"
+		"1696200TmZLWh",
+		"max",
+		"allowRemoteModels:",
+		"sort",
+		"https://",
+		"tokenizer",
+		"timestamp",
+		"chunks",
+		"get",
+		"967608acpnuu"
 	];
-	return (EC = function() {
+	return (PC = function() {
 		return e;
 	})();
 }
-let AC = vC(396), CC = !1;
-async function TC() {
-	const e = vC;
-	if (CC) return;
-	self[e(411)]({
-		type: "init-status",
-		status: e(385)
-	});
-	const t = (await Promise[e(410)](kC[e(360)]((t) => async function(e) {
-		const t = vC;
-		self[t(411)]({
-			type: t(405),
-			status: t(412) + e + t(402)
-		});
-		const n = t(394) + e + "/", s = new AbortController(), r = setTimeout(() => s.abort(), 5e3), a = Date.now();
-		try {
-			await fetch(n, {
-				method: "HEAD",
-				mode: t(395),
-				signal: s[t(368)]
-			}), clearTimeout(r);
-			const o = Date[t(383)]() - a, i = {
-				host: e,
-				latency: o
-			};
-			return self[t(411)]({
-				type: t(405),
-				status: "源 " + e + t(381) + o + "ms"
-			}), i;
-		} catch (o) {
-			return clearTimeout(r), self[t(411)]({
-				type: "init-status",
-				status: "源 " + e + " 不可用"
-			}), null;
-		}
-	}(t[e(350)]))))[e(373)]((e) => null !== e);
-	if (0 === t[e(424)]) throw new Error(e(428) + AC + e(387));
-	t[e(364)]((t, n) => t[e(376)] - n.latency), AC = t[0].host, self[e(411)]({
-		type: "init-status",
-		status: e(347) + AC + e(365) + t[0][e(376)] + e(375)
-	}), xs[e(352)] = e(394) + AC, CC = !0;
-}
-xs[vC(430)] = !0, xs.allowRemoteModels = !0, xs[vC(401)] = !1;
-let SC = null, FC = !1, IC = -1;
-const PC = /* @__PURE__ */ new Map();
-self[vC(431)] = async (e) => {
-	const t = vC, n = e[t(429)];
-	switch (n[t(367)]) {
-		case "ping":
-			self[t(411)]({ type: "pong" });
+self.onmessage = async (e) => {
+	const t = vC, n = e.data;
+	switch (n[t(459)]) {
+		case t(467):
+			self[t(465)]({ type: t(471) });
 			break;
-		case "init":
+		case t(533):
 			await async function({ modelId: e, allowRemote: t = !0 }) {
 				const n = vC;
-				IC = -1, PC.clear();
+				SC = -1, FC[n(507)]();
 				try {
-					t && await TC();
-					const s = xC[n(359)]((t) => t.id === e || t.huggingFaceId === e), r = s ? s[n(341)] : e;
-					self[n(411)]({
-						type: n(405),
-						status: n(421) + r + n(402)
-					}), SC = await async function(e, t = null, { progress_callback: n = null, config: s = null, cache_dir: r = null, local_files_only: a = !1, revision: o = "main", device: i = null, dtype: l = null, subfolder: c = "onnx", use_external_data_format: u = null, model_file_name: d = null, session_options: h = {} } = {}) {
+					t && await AC();
+					const s = xC.find((t) => t.id === e || t[n(525)] === e), r = s ? s[n(525)] : e;
+					self.postMessage({
+						type: "init-status",
+						status: n(448) + r + n(442)
+					}), CC = await async function(e, t = null, { progress_callback: n = null, config: s = null, cache_dir: r = null, local_files_only: a = !1, revision: o = "main", device: i = null, dtype: l = null, subfolder: c = "onnx", use_external_data_format: u = null, model_file_name: d = null, session_options: h = {} } = {}) {
 						e = dC[e] ?? e;
 						const _ = uC[e.split("_", 1)[0]];
 						if (!_) throw Error(`Unsupported pipeline: ${e}. Must be one of [${Object.keys(uC)}]`);
@@ -19996,145 +20009,142 @@ self[vC(431)] = async (e) => {
 							task: e,
 							model: t
 						}), new _.pipeline(k);
-					}(n(416), r, {
+					}(n(456), r, {
 						dtype: "q4",
-						device: n(378),
+						device: n(505),
 						progress_callback: (e) => {
-							const t = n;
-							if (t(366) != t(366)) _0x2c8f37[t(379)](_0x944b03, {
-								loaded: _0x478016.total,
-								total: _0x431d09.total
+							const t = n, s = e.file;
+							if (!s) return;
+							const r = e[t(438)] ?? 0, a = e[t(462)] ?? 0;
+							if (e[t(446)] === t(479) && a > 0) FC[t(451)](s, {
+								loaded: r,
+								total: a
 							});
-							else {
-								const n = e[t(422)];
-								if (!n) return;
-								const s = e[t(336)] ?? 0, r = e[t(356)] ?? 0;
-								if (e[t(409)] === t(344) && r > 0) "WOAIu" !== t(435) ? _0x48357e = _0x38f111 : PC[t(379)](n, {
-									loaded: s,
-									total: r
-								});
-								else if (e[t(409)] === t(389)) if (t(374) != t(374)) _0x3abd91[t(338)] && _0x4d3821.timestamp[t(424)] >= 2 && _0x224969.push({
-									text: _0x4062af[t(398)],
-									start: _0x22560e.timestamp[0] ?? 0,
-									end: _0x25016d[t(338)][1] ?? _0x99b2c9[t(338)][0] ?? 0
-								});
-								else {
-									const e = PC[t(351)](n);
-									e && PC.set(n, {
-										loaded: e[t(356)],
-										total: e[t(356)]
+							else if ("done" === e[t(446)]) {
+								if (t(524) === t(501)) return _0x551960(_0x2077a6), _0x41c14d[t(454)](t(516) + _0x2dfbb7 + " 不可用:", _0x13e55a), _0x51e19e[t(465)]({
+									type: t(488),
+									status: "源 " + _0x18756d + t(453)
+								}), null;
+								{
+									const e = FC[t(497)](s);
+									e && FC[t(451)](s, {
+										loaded: e[t(462)],
+										total: e[t(462)]
 									});
 								}
-								let a = 0, o = 0;
-								for (const { loaded: e, total: c } of PC[t(382)]()) t(371) == t(371) ? (a += e, o += c) : (_0x3d3c9c += _0x38ea76 - _0x116c37, _0x31cfbc = _0x2f3b1f[t(427)](99, _0x4e5b8c[t(357)](_0x4bf97d / _0x576a8c * 100)));
-								if (0 === o) return;
-								const i = a / o * 100, l = Math[t(357)](i);
-								l !== IC && (IC = l, self[t(411)]({
-									type: t(345),
-									progress: l
-								}));
 							}
+							let o = 0, i = 0;
+							for (const { loaded: n, total: u } of FC[t(452)]()) o += n, i += u;
+							if (0 === i) return;
+							const l = o / i * 100, c = Math[t(447)](l);
+							c !== SC && ("IHJei" !== t(503) ? (SC = c, self.postMessage({
+								type: t(523),
+								progress: c
+							})) : (_0x4a6eb4 > 0 && (_0x5418ab += _0x2575f5 - _0x42d07c, _0xa88df1 = _0x4c091d[t(521)](99, _0x228ff4[t(447)](_0x3dac3b / _0x127b7b * 100))), _0x3f3bce[t(465)]({
+								type: "transcribe-progress",
+								progress: _0x4c1d14,
+								message: t(519)
+							})));
 						}
-					}), self[n(411)]({ type: n(414) });
+					}), self.postMessage({ type: "init-complete" });
 				} catch (s) {
-					self[n(411)]({
-						type: n(418),
-						error: s instanceof Error ? s.message : "Failed to load model"
+					self[n(465)]({
+						type: n(435),
+						error: s instanceof Error ? s[n(504)] : n(472)
 					});
 				}
 			}({
-				modelId: n[t(434)],
-				allowRemote: n[t(355)] ?? !0
+				modelId: n[t(450)],
+				allowRemote: n[t(510)] ?? !0
 			});
 			break;
-		case "transcribe":
+		case t(506):
 			await async function({ audio: e, language: t }) {
 				const n = vC;
-				if (!SC) return void self[n(411)]({
-					type: n(413),
-					error: n(386)
-				});
-				FC = !1;
-				const s = e[n(424)] / 16e3;
-				Math[n(346)](1, Math.ceil(s / 25)), Date[n(383)]();
+				if (!CC) {
+					if ("DLIbc" !== n(440)) return void self[n(465)]({
+						type: n(449),
+						error: n(469)
+					});
+					_0x8473fe += _0x188ff2, _0x217842 += _0x20163b;
+				}
+				TC = !1;
+				const s = e[n(455)] / 16e3;
+				Math[n(490)](1, Math.ceil(s / 25)), Date[n(500)]();
 				let a = 0;
-				self[n(411)]({
-					type: n(348),
+				self[n(465)]({
+					type: "transcribe-progress",
 					progress: 0,
-					message: n(361) + Math[n(391)](s) + "秒)..."
+					message: n(484) + Math[n(487)](s) + n(433)
 				});
 				let o = 0, i = 0;
-				const l = new gC(SC[n(354)], {
+				const l = new gC(CC[n(494)], {
 					on_chunk_start: (e) => {
-						const t = n;
-						t(363) != t(363) ? (_0x599170[t(415)](t(380), _0x1e9799), _0x5ddf22[t(411)]({
-							type: t(418),
-							error: _0xf50d9c instanceof _0x5e1e02 ? _0x2bde15[t(404)] : t(362)
-						})) : i = e;
+						i = e;
 					},
 					callback_function: (e) => {},
 					on_chunk_end: (e) => {
 						const t = n;
-						e > 0 && (t(339) !== t(432) ? (o += e - i, a = Math[t(427)](99, Math[t(357)](o / s * 100))) : _0x147369[t(370)]({
-							text: _0x87d6a0[t(398)],
-							start: _0x31476a[t(338)][0] ?? 0,
-							end: _0xa78a87.timestamp[1] ?? _0x35d70a[t(338)][0] ?? 0
-						})), self.postMessage({
-							type: t(348),
+						e > 0 && (t(445) == t(445) ? (o += e - i, a = Math[t(521)](99, Math[t(447)](o / s * 100))) : (_0x38470f = _0x25843b, _0x19f75c[t(465)]({
+							type: "init-progress",
+							progress: _0x2f3ed8
+						}))), self[t(465)]({
+							type: t(470),
 							progress: a,
-							message: "正在转录:"
+							message: t(519)
 						});
 					},
 					on_finalize: () => {}
 				});
 				try {
-					if ("DzCLo" !== n(400)) {
-						const s = await SC(e, {
-							chunk_length_s: 30,
-							stride_length_s: 5,
-							language: t === n(378) ? void 0 : t,
-							return_timestamps: !0,
-							streamer: l
+					const s = await CC(e, {
+						chunk_length_s: 30,
+						stride_length_s: 5,
+						language: t === n(505) ? void 0 : t,
+						return_timestamps: !0,
+						streamer: l
+					});
+					if (TC) return;
+					const r = Array.isArray(s) ? s[0] : s, a = [];
+					if (r[n(496)]) {
+						if ("aRfyb" !== n(466)) _0x82a4b4 = _0x5382a8;
+						else for (const e of r.chunks) if (e[n(495)] && e[n(495)][n(455)] >= 2) if (n(480) === n(476)) for (const t of _0xaffada[n(496)]) t[n(495)] && t[n(495)][n(455)] >= 2 && _0x10bcbe[n(457)]({
+							text: t.text,
+							start: t[n(495)][0] ?? 0,
+							end: t[n(495)][1] ?? t.timestamp[0] ?? 0
 						});
-						if (FC) return;
-						const r = Array[n(420)](s) ? s[0] : s, a = [];
-						if (r[n(358)]) for (const e of r[n(358)]) e[n(338)] && e[n(338)].length >= 2 && (n(392) === n(343) ? (_0x5dfcc7 = _0x3f9841, _0x2d45d9.postMessage({
-							type: n(345),
-							progress: _0x3f221e
-						})) : a.push({
-							text: e.text,
+						else a[n(457)]({
+							text: e[n(512)],
 							start: e.timestamp[0] ?? 0,
-							end: e[n(338)][1] ?? e[n(338)][0] ?? 0
-						}));
-						self[n(411)]({
-							type: n(348),
-							progress: 100,
-							message: n(353)
-						}), self[n(411)]({
-							type: n(388),
-							text: r.text,
-							segments: a
+							end: e[n(495)][1] ?? e[n(495)][0] ?? 0
 						});
-					} else _0x137791.set(_0x85272c, {
-						loaded: _0x1dbdab,
-						total: _0x24f863
+					}
+					self[n(465)]({
+						type: n(470),
+						progress: 100,
+						message: n(520)
+					}), self[n(465)]({
+						type: "transcribe-complete",
+						text: r.text,
+						segments: a
 					});
 				} catch (c) {
-					if (n(377) === n(390)) return _0x183af8(_0x5408c9), _0x35365e[n(372)]("[ASR Worker] 端点 " + _0x2b7d2b + " 不可用:", _0x4d38bf), _0x53a074.postMessage({
-						type: n(405),
-						status: "源 " + _0x201963 + " 不可用"
-					}), null;
-					if (FC) return;
-					self[n(411)]({
-						type: n(413),
-						error: c instanceof Error ? c[n(404)] : n(433)
+					if (n(499) !== n(436)) {
+						if (TC) return;
+						self[n(465)]({
+							type: n(449),
+							error: c instanceof Error ? c[n(504)] : n(477)
+						});
+					} else _0x180258[n(444)](n(434), _0x49cad9), _0x3de94c[n(465)]({
+						type: "init-error",
+						error: _0x28dff2 instanceof _0x20bebe ? _0x466235.message : n(472)
 					});
 				}
 			}({
-				audio: n.audio,
-				language: n.language
+				audio: n[t(485)],
+				language: n[t(464)]
 			});
 			break;
-		case t(340): FC = !0, self[t(411)]({ type: "cancelled" });
+		case t(483): TC = !0, self.postMessage({ type: "cancelled" });
 	}
 };

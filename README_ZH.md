@@ -38,7 +38,8 @@ Wan2.1, Wan2.2, LTX-2.3
 *   🍌 **Nano banana**: 现已支持谷歌Gemini 香蕉（Nano banana）生图模型如下:     
 > gemini-2.5-flash-image  
 gemini-3-pro-image-preview  
-*   ⚠️ **ASR**: Web平台音频转文本暂不可用!         
+*   🤗 **ASR**: Web平台音频转文本,现在可用了!           
+> 说明: 默认从 huggingface.co 下载模型!  
 
 ---
 

@@ -38,7 +38,8 @@ Wan2.1, Wan2.2, LTX-2.3
 *   🍌 **Nano banana**: Google Gemini banana is now supported for the following graph model:       
 > gemini-2.5-flash-image    
 gemini-3-pro-image-preview   
-*   ⚠️ **ASR**: Audio-to-text conversion is temporarily unavailable on the web platform!         
+*   🤗 **ASR**: Web platform audio to text, now available!   
+> Note: It downloads the model from huggingface.co        
 
 ---
 
