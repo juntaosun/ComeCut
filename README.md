@@ -31,7 +31,8 @@ Our vision is to empower everyone with a professional-grade, AI-enhanced video e
 *   🤖 **AI-Driven**: Seamlessly integrates state-of-the-art AI models.
 *   🎨 **Powerful Tools**: A full-featured editor right in your browser or desktop.
 *   👉 **ComfyUI**: It now supports workflows such as z-image, qwen-edit, klein, and ltx2.*   
-> Z-Image    
+> Note: The ComfyUI workflow requires some simple setup to handle input control~  
+Z-Image    
 Flux-2-klein-4b/9b    
 Qwen-Image-Edit-2509/2511    
 Wan2.1, Wan2.2, LTX-2.3    
