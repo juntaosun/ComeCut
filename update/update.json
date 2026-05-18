@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "来剪 0.1.0 发布！",
+  "pub_date": "2026-05-18",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU9zWStEc21RUExpdVR2a080djNmekpZYml1Y2QvVjl3ZVFxb2l3VTBDMElTZWgxeG5TMUZOUHV5SlVZZll6REgyQm1PVU5MMm9iYWt3cXNnR0xHU2tHU3lyK0N0dHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTEwNDYyCWZpbGU6Q29tZUN1dF8wLjEuMF94NjQtc2V0dXAuZXhlCnlzOGlvbGxlaVRaSVB0MXFjd09aaDQ3U0FhcmFFTU5rYk1TUVlobTZUaXVtNDZrSzkrVW1zdCtRSFdwblp5QXNJaUNMVUtvdXNQVjJlR2haQXlFWkJnPT0K",
+      "url": "https://github.com/juntaosun/ComeCut/releases/download/v0.1.0/ComeCut_0.1.0_x64-setup.exe"
+    }
+  }
+}
