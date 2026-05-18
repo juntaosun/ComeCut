@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./logo.png" alt="ComeCut Logo" width="120" />
   <h1>ComeCut 「来剪」</h1>
-  <p><b>A Free, Open-Source, and AI-Powered Video Editing Suite for Web & Desktop</b></p>
+  <p><b>A Free, Lightweight, and AI-Powered Video Editing Suite for Web & Desktop</b></p>
 
   <p>
     <img src="https://img.shields.io/badge/License-AGPL%203.0-blue.svg" alt="License" />
@@ -39,7 +39,9 @@ Wan2.1, Wan2.2, LTX-2.3
 > gemini-2.5-flash-image    
 gemini-3-pro-image-preview   
 *   🤗 **ASR**: Web platform audio to text, now available!   
-> Note: It downloads the model from huggingface.co        
+> Note: It downloads the model from huggingface.co       
+* ⬇️ **Desktop version**: The desktop version (Windows) has been successfully compiled and is now available for download!      
+
 
 ---
 
@@ -92,6 +94,7 @@ Try the latest canary build directly in your browser:
 - 🤝 **Contributing**: We appreciate your interest! We recommend waiting for the project to stabilize before making major contributions.
 
 ## 👏 News
+- **[2026-05-18]** 🚀 **Compiled desktop version, website showcase, documentation, and changelog.**    
 - **[2025-09-07]** 🚀 **ComeCut project officially started!**
 
 <details>
@@ -104,6 +107,7 @@ Try the latest canary build directly in your browser:
 ## 🛡️ Privacy & Security
 - **No Data Collection**: We don't track you or collect personal information.
 - **Local Storage**: All project data is stored in your browser's local storage or your local machine.
+- **API Access**: You are responsible for the privacy of the API model and the third-party API and you.  
 
 ## 🔑 License
 Copyright © 2025 **juntaosun** and contributors.
