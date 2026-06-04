@@ -39,8 +39,12 @@ Wan2.1, Wan2.2, LTX-2.3
 > gemini-2.5-flash-image    
 gemini-3-pro-image-preview   
 *   🤗 **ASR**: Web platform audio to text, now available!   
+
+*   👉 **Ultra-Fast Cutout**: Integrated cutout, one-click instant cutout, hair-level cutout!  
+*   👉 **GIF GIFs**: Integrated GIF export for one-click generation, enjoy playing with GIFs and emojis!  
+
 > Note: It downloads the model from huggingface.co       
-* ⬇️ **Desktop version**: The desktop version (Windows) has been successfully compiled and is now available for download!      
+*   ⬇️ **Desktop version**: The desktop version (Windows) has been successfully compiled and is now available for download!      
 
 
 ---
@@ -94,6 +98,7 @@ Try the latest canary build directly in your browser:
 - 🤝 **Contributing**: We appreciate your interest! We recommend waiting for the project to stabilize before making major contributions.
 
 ## 👏 News
+- **[2026-06-05]** 🚀 **release v0.1.1**  
 - **[2026-05-18]** 🚀 **Compiled desktop version, website showcase, documentation, and changelog.**    
 - **[2025-09-07]** 🚀 **ComeCut project officially started!**
 
