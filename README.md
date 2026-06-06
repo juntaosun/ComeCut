@@ -43,6 +43,10 @@ gemini-3-pro-image-preview
 *   👉 **Ultra-Fast Cutout**: Integrated cutout, one-click instant cutout, hair-level cutout!  
 *   👉 **GIF GIFs**: Integrated GIF export for one-click generation, enjoy playing with GIFs and emojis!  
 
+*   👉 **Transition Engine**: A brand-new transition engine is ready—over 100 transition effects are coming soon!  
+*   👉 **Effects Engine**: A brand-new effects engine is ready—over 100 filter effects are coming soon!  
+*   👉 **Efficient Controls**: A completely new control experience—pan, rotate, and scale with greater freedom!  
+
 > Note: It downloads the model from huggingface.co       
 *   ⬇️ **Desktop version**: The desktop version (Windows) has been successfully compiled and is now available for download!      
 
@@ -98,6 +102,7 @@ Try the latest canary build directly in your browser:
 - 🤝 **Contributing**: We appreciate your interest! We recommend waiting for the project to stabilize before making major contributions.
 
 ## 👏 News
+- **[2026-06-06]** 🚀 **release v0.1.2**  
 - **[2026-06-05]** 🚀 **release v0.1.1**  
 - **[2026-05-18]** 🚀 **Compiled desktop version, website showcase, documentation, and changelog.**    
 - **[2025-09-07]** 🚀 **ComeCut project officially started!**
