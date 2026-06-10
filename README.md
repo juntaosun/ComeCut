@@ -44,7 +44,9 @@ gemini-3-pro-image-preview
 *   👉 **GIF GIFs**: Integrated GIF export for one-click generation, enjoy playing with GIFs and emojis!  
 
 *   👉 **Transition Engine**: A brand-new transition engine is ready—over 100 transition effects are coming soon!  
+> Support for creating custom transitions is now available, and Agent mode will be integrated in a future update.  
 *   👉 **Effects Engine**: A brand-new effects engine is ready—over 100 filter effects are coming soon!  
+> Customization and filter features are currently under development ~  
 *   👉 **Efficient Controls**: A completely new control experience—pan, rotate, and scale with greater freedom!  
 
 > Note: It downloads the model from huggingface.co       
