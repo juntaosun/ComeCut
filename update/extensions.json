@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-06-12",
+  "extensions": [
+    {
+      "id": "comecut-example",
+      "name": "示例插件项目",
+      "author": "ComeCut",
+      "category": "other/example",
+      "description": "这是一个示例插件, 您可参考编写开发或分享您的插件。",
+      "github": "https://github.com/juntaosun/comecut-example",
+      "version": "0.0.1"
+    },
+    {
+      "id": "comecut-qwen-asr",
+      "name": "Qwen-ASR 语音转文字",
+      "author": "ComeCut",
+      "category": "audio/asr",
+      "description": "基于阿里 Qwen-ASR 的离线语音转文字插件，支持自动语言检测与词级时间戳对齐。",
+      "github": "https://github.com/juntaosun/comecut-qwen3-asr",
+      "version": "0.0.1"
+    }
+  ]
+}
