@@ -11,14 +11,14 @@
   </p>
 
   <h3>
-    <a href="README.md">English</a> | <a href="README_ZH.md">简体中文</a>
+    <a href="README.md">English</a> | <a href="README_ZH.md">简体中文</a> | <a href="https://github.com/juntaosun/ComeCut/releases">releases</a>  
   </h3>
 </div>
 
 ---
 
 <div align="center">
-  <img src='./example/image01.png' width="75%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src='./example/image00.png' width="75%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
 ## 🎁 为什么选择 ComeCut?
@@ -53,6 +53,25 @@ gemini-3-pro-image-preview
 *   ⬇️ **桌面版本**: 桌面版(Windows)已成功编译,现在可以下载使用了!    
 
 ---
+
+## ✨ 高度自由的 Python 本地扩展  
+非常开心，在本次更新中，我使史诗级的完成了 Python 本地可扩展的支持，这意味着将来，您将能像 ComfyUI 那样获得开源社区的插件支持，比如轨道音频转字幕 ASR （已实现），您今后可以完全开发和扩展自己的插件，让您能在视频编辑器中使用最新的模型和技术，并分享给朋友或它人使用，提高工作效率！ 
+
+<div align="center">
+  <img src='./example/image03.png' width="80%" />
+</div>
+
+- 所有的插件：带有全功能调试机制，让您的插件开发更顺畅！  
+
+<div align="center">
+  <img src='./example/image04.png' width="80%" />
+</div>
+
+- 插件加载后：将自动出现在轨道右键菜单上，例如：音频/视频/图像！ 
+- 插件开发示例项目：   
+https://github.com/juntaosun/comecut-example  
+https://github.com/juntaosun/comecut-qwen3-asr  
+
 
 ## ✨ AI 驱动的生态系统
 
@@ -103,6 +122,8 @@ ComeCut 接入了全球顶尖的 AI 能力，让您在剪辑过程中随时调�
 - 🤝 **参与贡献**：感谢您的关注，建议在项目进入稳定版本后再进行大规模代码贡献。
 
 ## 👏 最新动态
+- **[2026-06-13]** 🚀 **release v0.1.4**  
+- **[2026-06-10]** 🚀 **release v0.1.3**  
 - **[2026-06-06]** 🚀 **release v0.1.2**    
 - **[2026-06-05]** 🚀 **release v0.1.1**    
 - **[2026-05-18]** 🚀 **编译桌面版本、网站展示，文档和更新日志。**

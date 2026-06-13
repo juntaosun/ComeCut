@@ -11,14 +11,14 @@
   </p>
 
   <h3>
-    <a href="README.md">English</a> | <a href="README_ZH.md">简体中文</a>
+    <a href="README.md">English</a> | <a href="README_ZH.md">简体中文</a> | <a href="https://github.com/juntaosun/ComeCut/releases">releases</a>  
   </h3>
 </div>
 
 ---
 
 <div align="center">
-  <img src='./example/image01.png' width="75%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src='./example/image00.png' width="75%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
 ## 🎁 Why ComeCut?
@@ -54,6 +54,26 @@ gemini-3-pro-image-preview
 
 
 ---
+
+## ✨ Highly Flexible Python Native Extensions
+
+I'm thrilled that in this update, I've achieved the epic completion of native Python extensibility support. This means that in the future, you'll have access to open-source community plugin support, just like ComfyUI, such as Track Audio to Subtitle ASR (already implemented). You can fully develop and extend your own plugins, allowing you to use the latest models and technologies in your video editor and share them with friends and others, improving your workflow!  
+
+<div align="center">
+  <img src='./example/image03.png' width="80%" />
+</div>
+
+- All plugins come with a full-featured debugging mechanism, making your plugin development smoother!  
+
+<div align="center">
+  <img src='./example/image04.png' width="80%" />
+</div>
+
+- Once the plugin is loaded: it will automatically appear in the track's right-click menu, for example: Audio/Video/Image!  
+- Plugin development example project:  
+https://github.com/juntaosun/comecut-example  
+https://github.com/juntaosun/comecut-qwen3-asr  
+
 
 ## ✨ AI-Powered Ecosystem
 
@@ -104,6 +124,7 @@ Try the latest canary build directly in your browser:
 - 🤝 **Contributing**: We appreciate your interest! We recommend waiting for the project to stabilize before making major contributions.
 
 ## 👏 News
+- **[2026-06-13]** 🚀 **release v0.1.4**  
 - **[2026-06-10]** 🚀 **release v0.1.3**  
 - **[2026-06-06]** 🚀 **release v0.1.2**  
 - **[2026-06-05]** 🚀 **release v0.1.1**  
