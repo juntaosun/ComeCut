@@ -52,6 +52,7 @@ gemini-3-pro-image-preview
 > Note: It downloads the model from huggingface.co       
 *   ⬇️ **Desktop version**: The desktop version (Windows) has been successfully compiled and is now available for download!      
 
+> To keep you up-to-date, the developer version is set to expire automatically after 30 days.  
 
 ---
 
