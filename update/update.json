@@ -1,11 +1,11 @@
 {
-  "version": "0.1.4",
-  "notes": "来剪 0.1.4 发布！",
-  "pub_date": "2026-06-13T00:00:00Z",
+  "version": "0.1.5",
+  "notes": "来剪 0.1.5 发布！",
+  "pub_date": "2026-08-12T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU9zWStEc21RUFBhYUlxRTZlaWJaVDhMNlkzeVBCbk1NdGduWVZFWEtYQytIUzdUMTZEeWFZVFJYQ1ovc2RFeVBvZHpkUEtxL0JUVGdYa0pkNFN0MExQTnUveHdSK2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMzU4MTMwCWZpbGU6Q29tZUN1dF8wLjEuNF94NjQtc2V0dXAuZXhlCmFTQUswR3IzNjVxTlpwZjV5VmtMVEpnT3I1eXM2V3RacWZwZGd5M3hMeG9oVVJoYkFaVUJ2M2xzY1oyLzduejFxc1h0VTA1dVprdlI4Z3ZkQ3NyUER3PT0K",
-      "url": "https://github.com/juntaosun/ComeCut/releases/download/v0.1.4/ComeCut_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWU9zWStEc21RUE8xQUhTSVkyNkppWWYyaXQ5UUZtUmM4OWJ3SlFqV1Jrem9ONDZFOEJmNWlTYnIzS05sQVZsMldtWGpYdXk0M0tZMU9OSWtuaXQyR3JjSVNnQTVEYndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NTM4MDg4CWZpbGU6Q29tZUN1dF8wLjEuNV94NjQtc2V0dXAuZXhlCnBRaVdub21qMmNTZHZpNEdSd003cHZDQUMyTis1QXRBekc5a1UwN1BWd25oT1BSQnpCaEh5MVFUR2hZR3h0V2tVQVY4Q0k2SWtraFE3VVFvQ2xtTEJ3PT0K",
+      "url": "https://github.com/juntaosun/ComeCut/releases/download/v0.1.5/ComeCut_0.1.5_x64-setup.exe"
     }
   }
 }
