@@ -1,0 +1,22 @@
+name: Close stale issues
+
+on:
+  schedule:
+    - cron: '30 1 * * *' # 每天凌晨定时运行
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/stale@v5
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          days-before-stale: 7 # 无活动天数达到该值后打上 stale 标签
+          days-before-close: 3  # 打标签后多少天关闭
+          stale-issue-label: 'stale'
+          stale-issue-message: '由于该问题标记已过期。如果您认为该问题仍需解决，请回复最新进展！'
+          close-issue-message: '由于该问题长期未活跃，我们将其自动关闭。如果还有疑问，欢迎随时重新开启。'
