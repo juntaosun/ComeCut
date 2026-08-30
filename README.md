@@ -62,6 +62,20 @@ I'm very pleased that AI assistant capabilities are finally highly integrated in
   <img src='./example/image05.jpg' width="80%" />
 </div>
 
+---
+
+👉 What can this AI assistant do?  
+- Translate the current subtitle into English.  
+- Find and correct typos in the subtitles.  
+- Find music and add it to the track.  
+- Create a beautiful girl using ComfyUI.  
+- Find a specific subtitle and position it on the timeline.  
+- Delete or trim a clip.  
+- Add music to the track and adjust the volume to 50%.  
+- Save the project.  
+- You can delegate anything to it...  
+- This is your AI assistant; it can do everything!    
+
 > AI Assistant: Supports protocols such as Gemini and OpenAI, including Qwen 3.8, as well as local Ollam and LM Studio!  
 
 ---

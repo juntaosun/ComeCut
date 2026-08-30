@@ -60,7 +60,21 @@ gemini-3-pro-image-preview
 
 <div align="center">
   <img src='./example/image05.jpg' width="80%" />
-</div>
+</div>  
+
+---  
+👉 AI 助手, 它能做什么?   
+- 请将当前字幕翻译成英文  
+- 帮我找到字幕中的错别字并修正它们    
+- 帮我找到音乐并添加到轨道上  
+- 帮我用 ComfyUI 生成一个美丽的女孩 
+- 帮我找到某个字幕并将时间轴定位它  
+- 删除某个剪辑,裁剪某个剪辑
+- 帮我把某个音乐添加到轨道上,调整音量为 50%    
+- 帮我保存项目  
+- 你想做的事都可交给它...  
+- 这就是你的 AI 助手, 它无所不能 !  
+
   
 > AI助手: 支持Gemini, OpenAI 等协议, 例如 Qwen3.8, 以及本地 Ollama 和 LM Studio !  
 
