@@ -52,7 +52,15 @@ gemini-3-pro-image-preview
 > Note: It downloads the model from huggingface.co       
 *   ⬇️ **Desktop version**: The desktop version (Windows) has been successfully compiled and is now available for download!      
 
-> To keep you up-to-date, the developer version is set to expire automatically after 30 days.  
+> To keep you up-to-date, the developer version is set to expire automatically after 30 days. 
+
+## ✨ Your AI Assistant  
+
+I'm very pleased that AI assistant capabilities are finally highly integrated into video editing. It can help you find materials, edit, adjust volume, modify subtitles, translate subtitles, and generate images and videos using ComfyUI, all within the Agent chat.  
+
+<div align="center">
+  <img src='./example/image05.jpg' width="80%" />
+</div>
 
 ---
 
@@ -125,6 +133,7 @@ Try the latest canary build directly in your browser:
 - 🤝 **Contributing**: We appreciate your interest! We recommend waiting for the project to stabilize before making major contributions.
 
 ## 👏 News
+- **[2026-08-30]** 🚀 **release v0.1.6** 
 - **[2026-08-12]** 🚀 **release v0.1.5** 
 - **[2026-06-13]** 🚀 **release v0.1.4**  
 - **[2026-06-10]** 🚀 **release v0.1.3**  
