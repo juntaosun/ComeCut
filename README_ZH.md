@@ -61,7 +61,8 @@ gemini-3-pro-image-preview
 <div align="center">
   <img src='./example/image05.jpg' width="80%" />
 </div>
-
+  
+> AI助手: 支持Gemini, OpenAI 等协议, 例如 Qwen3.8, 以及本地 Ollama 和 LM Studio !  
 
 ---
 

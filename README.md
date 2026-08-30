@@ -62,6 +62,8 @@ I'm very pleased that AI assistant capabilities are finally highly integrated in
   <img src='./example/image05.jpg' width="80%" />
 </div>
 
+> AI Assistant: Supports protocols such as Gemini and OpenAI, including Qwen 3.8, as well as local Ollam and LM Studio!  
+
 ---
 
 ## ✨ Highly Flexible Python Native Extensions
