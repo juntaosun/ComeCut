@@ -59,6 +59,7 @@ gemini-3-pro-image-preview
 (1) 全自动配音: 已经初步实现将任意视频,一键翻译成中文或英文 配音.  预览版已经支持了 audio.cpp 的 API 接入, 基于 OpenAI 标准协议; 现在它支持 index-tts2或2.5, Breeze-TTS2, OmniVoice,Qwen3-ASR等前沿TTS配音模型.  
 (2)音频分离和还原: 当我得知某软件连这个基本功能都要收费,我彻底无语,所以,本次更新增加了剪辑块的"分离音频"和"还原音频",在任意视频剪辑块右键菜单上,可以找到它.  
 (3)支持 audio.cpp: 将你添加它的模型时, 它会自动出现在你的右键菜单上.比如 Qwen3-ASR, IndexTTS2.5等.  
+> https://github.com/0xShug0/audio.cpp   
 (4)更小的打包体积: 原先我想把前沿的大模型集成进来,但光各种依赖环境就撑爆了包体积, 现在我将它们分离出去,仅使用 API 进行本地调用.真是天才般的想法!  
 
 ## ✨ Your AI Assistant  
@@ -86,25 +87,6 @@ gemini-3-pro-image-preview
 > AI助手: 支持Gemini, OpenAI 等协议, 例如 Qwen3.8, 以及本地 Ollama 和 LM Studio !  
 
 ---
-
-## ✨ 高度自由的 Python 本地扩展  
-非常开心，在本次更新中，我使史诗级的完成了 Python 本地可扩展的支持，这意味着将来，您将能像 ComfyUI 那样获得开源社区的插件支持，比如轨道音频转字幕 ASR （已实现），您今后可以完全开发和扩展自己的插件，让您能在视频编辑器中使用最新的模型和技术，并分享给朋友或它人使用，提高工作效率！ 
-
-<div align="center">
-  <img src='./example/image03.png' width="80%" />
-</div>
-
-- 所有的插件：带有全功能调试机制，让您的插件开发更顺畅！  
-
-<div align="center">
-  <img src='./example/image04.png' width="80%" />
-</div>
-
-- 插件加载后：将自动出现在轨道右键菜单上，例如：音频/视频/图像！ 
-- 插件开发示例项目：   
-https://github.com/juntaosun/comecut-example  
-https://github.com/juntaosun/comecut-qwen3-asr  
-
 
 ## ✨ AI 驱动的生态系统
 

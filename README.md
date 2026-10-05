@@ -80,31 +80,12 @@ I'm very pleased that AI assistant capabilities are finally highly integrated in
 (1) Fully automated voiceover: We have achieved initial functionality to translate any video into Chinese or English voiceovers with a single click. The preview version now supports API integration via `audio.cpp` based on OpenAI's standard protocols; it supports cutting-edge TTS models such as index-tts2/2.5, Breeze-TTS2, OmniVoice, and Qwen3-ASR.  
 (2) Audio separation and restoration: I was speechless to learn that some software charges for even this basic feature. Consequently, this update adds "Separate Audio" and "Restore Audio" functions for video clips, accessible via the right-click menu on any clip.  
 (3) `audio.cpp` support: When you add a model, it automatically appears in the right-click menu (e.g., Qwen3-ASR, IndexTTS2.5).  
+> https://github.com/0xShug0/audio.cpp  
 (4) Reduced package size: I originally intended to integrate large, cutting-edge models directly, but the necessary dependencies caused the package size to balloon. Now, I have decoupled   them, using APIs for local calls instead. A truly brilliant idea!  
 
 > AI Assistant: Supports protocols such as Gemini and OpenAI, including Qwen 3.8, as well as local Ollam and LM Studio!  
 
 ---
-
-## ✨ Highly Flexible Python Native Extensions
-
-I'm thrilled that in this update, I've achieved the epic completion of native Python extensibility support. This means that in the future, you'll have access to open-source community plugin support, just like ComfyUI, such as Track Audio to Subtitle ASR (already implemented). You can fully develop and extend your own plugins, allowing you to use the latest models and technologies in your video editor and share them with friends and others, improving your workflow!  
-
-<div align="center">
-  <img src='./example/image03.png' width="80%" />
-</div>
-
-- All plugins come with a full-featured debugging mechanism, making your plugin development smoother!  
-
-<div align="center">
-  <img src='./example/image04.png' width="80%" />
-</div>
-
-- Once the plugin is loaded: it will automatically appear in the track's right-click menu, for example: Audio/Video/Image!  
-- Plugin development example project:  
-https://github.com/juntaosun/comecut-example  
-https://github.com/juntaosun/comecut-qwen3-asr  
-
 
 ## ✨ AI-Powered Ecosystem
 
