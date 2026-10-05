@@ -32,7 +32,6 @@ Our vision is to empower everyone with a professional-grade, AI-enhanced video e
 *   🎨 **Powerful Tools**: A full-featured editor right in your browser or desktop.
 *   👉 **Ultra-Fast Cutout**: Integrated cutout, one-click instant cutout, hair-level cutout!  
 *   👉 **GIF GIFs**: Integrated GIF export for one-click generation, enjoy playing with GIFs and emojis!  
-> Note: It downloads the model from huggingface.co       
 *   ⬇️ **Desktop version**: The desktop version (Windows) has been successfully compiled and is now available for download!      
 
 > To keep you up-to-date, the developer version is set to expire automatically after 30 days. 
