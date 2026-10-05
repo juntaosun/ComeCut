@@ -30,25 +30,8 @@ Our vision is to empower everyone with a professional-grade, AI-enhanced video e
 *   🔒 **Privacy First**: Fully localized processing ensures your data stays yours.
 *   🤖 **AI-Driven**: Seamlessly integrates state-of-the-art AI models.
 *   🎨 **Powerful Tools**: A full-featured editor right in your browser or desktop.
-*   👉 **ComfyUI**: It now supports workflows such as z-image, qwen-edit, klein, and ltx2.*   
-> Note: The ComfyUI workflow requires some simple setup to handle input control~  
-Z-Image, Flux-2-klein-4b/9b    
-Qwen-Image-Edit-2509/2511    
-Wan2.1, Wan2.2, LTX-2.3    
-*   🍌 **Nano banana**: Google Gemini banana is now supported for the following graph model:       
-> gemini-2.5-flash-image    
-gemini-3-pro-image-preview   
-*   🤗 **ASR**: Web platform audio to text, now available!   
-
 *   👉 **Ultra-Fast Cutout**: Integrated cutout, one-click instant cutout, hair-level cutout!  
 *   👉 **GIF GIFs**: Integrated GIF export for one-click generation, enjoy playing with GIFs and emojis!  
-
-*   👉 **Transition Engine**: A brand-new transition engine is ready—over 100 transition effects are coming soon!  
-> Support for creating custom transitions is now available, and Agent mode will be integrated in a future update.  
-*   👉 **Effects Engine**: A brand-new effects engine is ready—over 100 filter effects are coming soon!  
-> Customization and filter features are currently under development ~  
-*   👉 **Efficient Controls**: A completely new control experience—pan, rotate, and scale with greater freedom!  
-
 > Note: It downloads the model from huggingface.co       
 *   ⬇️ **Desktop version**: The desktop version (Windows) has been successfully compiled and is now available for download!      
 
@@ -60,7 +43,7 @@ gemini-3-pro-image-preview
 
 ## ✨ 2026-10-05 Milestone: Fully automated voiceover and reduced package size;  
 (1) Fully automated voiceover: We have achieved initial functionality to translate any video into Chinese or English voiceovers with a single click. The preview version now supports API integration via `audio.cpp` based on OpenAI's standard protocols; it supports cutting-edge TTS models such as index-tts2/2.5, Breeze-TTS2, OmniVoice, and Qwen3-ASR.  
-(2) Audio separation and restoration: I was speechless to learn that some software charges for even this basic feature. Consequently, this update adds "Separate Audio" and "Restore Audio" functions for video clips, accessible via the right-click menu on any clip.  
+(2) Audio separation and restoration: this update adds "Separate Audio" and "Restore Audio" functions for video clips, accessible via the right-click menu on any clip.  
 (3) `audio.cpp` support: When you add a model, it automatically appears in the right-click menu (e.g., Qwen3-ASR, IndexTTS2.5).  
 > https://github.com/0xShug0/audio.cpp  
 
@@ -103,10 +86,6 @@ ComeCut integrates with the world's leading AI providers to bring you the latest
 
 ### 📝 Smart Subtitle Translation (SRT/VTT/LRC)
 Effortlessly translate subtitles into multiple languages with one click, supporting dual-language display.
-
-<div align="center">
-  <img src='./example/translate_en.png' width="80%" style="border-radius: 8px;" />
-</div>
 
 <div align="center">
   <img src='./example/image02.png' width="90%" style="border-radius: 8px; margin-top: 20px;" />
