@@ -54,6 +54,17 @@ gemini-3-pro-image-preview
 
 > To keep you up-to-date, the developer version is set to expire automatically after 30 days. 
 
+<div align="center">
+  <img src='./example/image06.jpg' width="80%" />
+</div>
+
+## ✨ 2026-10-05 Milestone: Fully automated voiceover and reduced package size;  
+(1) Fully automated voiceover: We have achieved initial functionality to translate any video into Chinese or English voiceovers with a single click. The preview version now supports API integration via `audio.cpp` based on OpenAI's standard protocols; it supports cutting-edge TTS models such as index-tts2/2.5, Breeze-TTS2, OmniVoice, and Qwen3-ASR.  
+(2) Audio separation and restoration: I was speechless to learn that some software charges for even this basic feature. Consequently, this update adds "Separate Audio" and "Restore Audio" functions for video clips, accessible via the right-click menu on any clip.  
+(3) `audio.cpp` support: When you add a model, it automatically appears in the right-click menu (e.g., Qwen3-ASR, IndexTTS2.5).  
+> https://github.com/0xShug0/audio.cpp  
+(4) Reduced package size: I originally intended to integrate large, cutting-edge models directly, but the necessary dependencies caused the package size to balloon. Now, I have decoupled   them, using APIs for local calls instead. A truly brilliant idea!  
+
 ## ✨ Your AI Assistant  
 
 I'm very pleased that AI assistant capabilities are finally highly integrated into video editing. It can help you find materials, edit, adjust volume, modify subtitles, translate subtitles, and generate images and videos using ComfyUI, all within the Agent chat.  
@@ -75,13 +86,6 @@ I'm very pleased that AI assistant capabilities are finally highly integrated in
 - Save the project.  
 - You can delegate anything to it...  
 - This is your AI assistant; it can do everything!    
-
-## ✨ 2026-10-05 Milestone: Fully automated voiceover and reduced package size;  
-(1) Fully automated voiceover: We have achieved initial functionality to translate any video into Chinese or English voiceovers with a single click. The preview version now supports API integration via `audio.cpp` based on OpenAI's standard protocols; it supports cutting-edge TTS models such as index-tts2/2.5, Breeze-TTS2, OmniVoice, and Qwen3-ASR.  
-(2) Audio separation and restoration: I was speechless to learn that some software charges for even this basic feature. Consequently, this update adds "Separate Audio" and "Restore Audio" functions for video clips, accessible via the right-click menu on any clip.  
-(3) `audio.cpp` support: When you add a model, it automatically appears in the right-click menu (e.g., Qwen3-ASR, IndexTTS2.5).  
-> https://github.com/0xShug0/audio.cpp  
-(4) Reduced package size: I originally intended to integrate large, cutting-edge models directly, but the necessary dependencies caused the package size to balloon. Now, I have decoupled   them, using APIs for local calls instead. A truly brilliant idea!  
 
 > AI Assistant: Supports protocols such as Gemini and OpenAI, including Qwen 3.8, as well as local Ollam and LM Studio!  
 

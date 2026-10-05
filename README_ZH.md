@@ -54,6 +54,9 @@ gemini-3-pro-image-preview
 
 > 为了让您保持体验最新版本, 开发版设置为30天自动过期.   
 
+<div align="center">
+  <img src='./example/image06.jpg' width="80%" />
+</div>
 
 ## ✨ 2026-10-05 里程碑: 全自动配音 和 更小的打包体积;  
 (1) 全自动配音: 已经初步实现将任意视频,一键翻译成中文或英文 配音.  预览版已经支持了 audio.cpp 的 API 接入, 基于 OpenAI 标准协议; 现在它支持 index-tts2或2.5, Breeze-TTS2, OmniVoice,Qwen3-ASR等前沿TTS配音模型.  
