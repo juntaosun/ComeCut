@@ -135,6 +135,10 @@ ComeCut 接入了全球顶尖的 AI 能力，让您在剪辑过程中随时调�
 ...
 </details>
 
+## 鸣谢
+
+- [audio.cpp](https://github.com/0xShug0/audio.cpp) — ShugoAI 开发的本地音频推理引擎。
+
 ---
 
 ## 🛡️ 隐私声明

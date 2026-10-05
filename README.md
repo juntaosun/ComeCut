@@ -135,6 +135,10 @@ Try the latest canary build directly in your browser:
 ...
 </details>
 
+## Acknowledgements
+
+- [audio.cpp](https://github.com/0xShug0/audio.cpp) by ShugoAI — the local audio inference engine.
+
 ---
 
 ## 🛡️ Privacy & Security
