@@ -76,6 +76,12 @@ I'm very pleased that AI assistant capabilities are finally highly integrated in
 - You can delegate anything to it...  
 - This is your AI assistant; it can do everything!    
 
+## ✨ 2026-10-05 Milestone: Fully automated voiceover and reduced package size;  
+(1) Fully automated voiceover: We have achieved initial functionality to translate any video into Chinese or English voiceovers with a single click. The preview version now supports API integration via `audio.cpp` based on OpenAI's standard protocols; it supports cutting-edge TTS models such as index-tts2/2.5, Breeze-TTS2, OmniVoice, and Qwen3-ASR.  
+(2) Audio separation and restoration: I was speechless to learn that some software charges for even this basic feature. Consequently, this update adds "Separate Audio" and "Restore Audio" functions for video clips, accessible via the right-click menu on any clip.  
+(3) `audio.cpp` support: When you add a model, it automatically appears in the right-click menu (e.g., Qwen3-ASR, IndexTTS2.5).  
+(4) Reduced package size: I originally intended to integrate large, cutting-edge models directly, but the necessary dependencies caused the package size to balloon. Now, I have decoupled   them, using APIs for local calls instead. A truly brilliant idea!  
+
 > AI Assistant: Supports protocols such as Gemini and OpenAI, including Qwen 3.8, as well as local Ollam and LM Studio!  
 
 ---
@@ -149,6 +155,7 @@ Try the latest canary build directly in your browser:
 - 🤝 **Contributing**: We appreciate your interest! We recommend waiting for the project to stabilize before making major contributions.
 
 ## 👏 News
+- **[2026-10-05]** 🚀 **release v0.1.8** 
 - **[2026-09-14]** 🚀 **release v0.1.7** 
 - **[2026-08-30]** 🚀 **release v0.1.6** 
 - **[2026-08-12]** 🚀 **release v0.1.5** 
