@@ -63,6 +63,7 @@ gemini-3-pro-image-preview
 (2) Audio separation and restoration: I was speechless to learn that some software charges for even this basic feature. Consequently, this update adds "Separate Audio" and "Restore Audio" functions for video clips, accessible via the right-click menu on any clip.  
 (3) `audio.cpp` support: When you add a model, it automatically appears in the right-click menu (e.g., Qwen3-ASR, IndexTTS2.5).  
 > https://github.com/0xShug0/audio.cpp  
+
 (4) Reduced package size: I originally intended to integrate large, cutting-edge models directly, but the necessary dependencies caused the package size to balloon. Now, I have decoupled   them, using APIs for local calls instead. A truly brilliant idea!  
 
 ## ✨ Your AI Assistant  
