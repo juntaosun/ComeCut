@@ -23,7 +23,8 @@
 
 ## 🎁 Why ComeCut?
 
-Our vision is to empower everyone with a professional-grade, AI-enhanced video editing experience. By leveraging the open-source community, we provide a truly free and scalable ecosystem.
+Our vision is to empower everyone with a professional-grade, AI-enhanced video editing experience. By leveraging the open-source community, we provide a truly free and scalable ecosystem.  
+Fully Automatic Video Translation: One-click workflow: Speech Recognition (ASR) → Subtitle Translation → Speech Synthesis (TTS) → Video Synthesis.  
 
 *   ✨ **Completely Free**: No hidden costs, unlimited usage.
 *   🚀 **No Registration**: Start creating immediately—no account required.
