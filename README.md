@@ -94,9 +94,9 @@ Effortlessly translate subtitles into multiple languages with one click, support
 
 ## 🗺️ Roadmap (In Progress)
 
-- [ ] 🎙️ **AI Voice Recognition**: Automatically generate subtitles from audio tracks.
+- [x] 🎙️ **AI Voice Recognition**: Automatically generate subtitles from audio tracks ( Completed ).
+- [x] 🎬 **AI Video Translation & Dubbing**: One-click localized dubbing (e.g., English to Mandarin) ( Completed ).
 - [ ] 🎭 **AI Creative Studio**: Integration with `Seedance-2.0`, `Veo3.1`, `Sora2` for AI short dramas and comics.
-- [ ] 🎬 **AI Video Translation & Dubbing**: One-click localized dubbing (e.g., English to Mandarin).
 
 ---
 
@@ -119,6 +119,7 @@ Try the latest canary build directly in your browser:
 - 🤝 **Contributing**: We appreciate your interest! We recommend waiting for the project to stabilize before making major contributions.
 
 ## 👏 News
+- **[2026-10-20]** 🚀 **release v0.2.1** 
 - **[2026-10-19]** 🚀 **release v0.2.0** 
 - **[2026-10-07]** 🚀 **release v0.1.9** 
 - **[2026-10-05]** 🚀 **release v0.1.8** 
