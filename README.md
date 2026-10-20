@@ -95,6 +95,11 @@ Effortlessly translate subtitles into multiple languages with one click, support
 
 ## 🗺️ Roadmap (In Progress)
 
+<div align="center">
+  <img src='./example/dubbing.jpg' width="90%" style="border-radius: 8px; margin-top: 20px;" />
+<br>Speech Recognition (ASR) → Subtitle Translation → Speech Synthesis (TTS) → Video Synthesis.     
+</div><br>  
+
 - [x] 🎙️ **AI Voice Recognition**: Automatically generate subtitles from audio tracks ( Completed ).
 - [x] 🎬 **AI Video Translation & Dubbing**: One-click localized dubbing (e.g., English to Mandarin) ( Completed ).
 - [ ] 🎭 **AI Creative Studio**: Integration with `Seedance-2.0`, `Veo3.1`, `Sora2` for AI short dramas and comics.

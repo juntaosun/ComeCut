@@ -95,6 +95,11 @@ ComeCut 接入了全球顶尖的 AI 能力，让您在剪辑过程中随时调�
 
 ## 🗺️ 路线图 (进行中)
 
+<div align="center">
+  <img src='./example/dubbing.jpg' width="90%" style="border-radius: 8px; margin-top: 20px;" />
+<br>语音识别（ASR）→字幕翻译→语音合成（TTS）→视频合成。   
+</div><br>   
+  
 - [x] 🎙️ **AI 语音识别**：自动将语音轨道识别并生成字幕 ( 已完成 )。
 - [x] 🎬 **AI 视频译制配音**：支持美剧/韩剧/日剧等一键译制成国语配音 ( 已完成 )。
 - [ ] 🎭 **AI 自由创作**：未来将接入 `Seedance-2.0`, `Veo3.1`, `Sora2` 等，轻松创作 AI 短剧/漫剧。
