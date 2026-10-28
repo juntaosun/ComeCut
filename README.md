@@ -125,6 +125,7 @@ Try the latest canary build directly in your browser:
 - 🤝 **Contributing**: We appreciate your interest! We recommend waiting for the project to stabilize before making major contributions.
 
 ## 👏 News
+- **[2026-10-28]** 🚀 **release v0.2.2** 
 - **[2026-10-20]** 🚀 **release v0.2.1** 
 - **[2026-10-19]** 🚀 **release v0.2.0** 
 - **[2026-10-07]** 🚀 **release v0.1.9** 
