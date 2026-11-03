@@ -102,7 +102,10 @@ Effortlessly translate subtitles into multiple languages with one click, support
 
 - [x] 🎙️ **AI Voice Recognition**: Automatically generate subtitles from audio tracks ( Completed ).
 - [x] 🎬 **AI Video Translation & Dubbing**: One-click localized dubbing (e.g., English to Mandarin) ( Completed ).
-- [ ] 🎭 **AI Creative Studio**: Integration with `Seedance-2.0`, `Veo3.1`, `Sora2` for AI short dramas and comics.
+- [ ] 🎭 **AI Creative Studio**: Moving forward, the focus will be on developing content for video creation, enabling the easy production of AI-powered short dramas and animated series..  
+
+> Prioritizes support for the MiniMax-H3 local video generation capability, offering an end-to-end creative workflow:
+- Scriptwriting → Character Development → Storyboarding → Generation → Editing → Video Delivery  
 
 ---
 
@@ -125,6 +128,7 @@ Try the latest canary build directly in your browser:
 - 🤝 **Contributing**: We appreciate your interest! We recommend waiting for the project to stabilize before making major contributions.
 
 ## 👏 News
+- **[2026-11-03]** 🚀 **release v0.2.3** 
 - **[2026-10-28]** 🚀 **release v0.2.2** 
 - **[2026-10-20]** 🚀 **release v0.2.1** 
 - **[2026-10-19]** 🚀 **release v0.2.0** 
